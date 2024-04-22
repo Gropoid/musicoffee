@@ -21,7 +21,7 @@ Chorus :
 
 structure :
 
-instru
+instru x2
 Verse
 Chorus
 Verse
