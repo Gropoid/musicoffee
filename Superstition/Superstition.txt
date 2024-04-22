@@ -1,0 +1,32 @@
+Superstition - Stevie Wonder
+
+108 BPM
+
+intro : batterie sur
+|NC  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   |
+
+instru :
+|Eb-7.   .   .   |.   .   .   .   |Eb-7.   .   .    |.   .   .   .   |
+
+verse :
+|Eb-7.   .   .   |.   .   .   .   |Eb-7.   .   .    |.   .   .   .   |
+|Eb-7.   .   .   |.   .   .   .   |Eb-7.   .   .    |.   .   .   .   |
+|Eb-7.   .   .   |.   .   .   .   |Eb-7.   .   .    |.   .   .   .   |
+|Eb-7.   .   .   |.   .   .   .   |Eb-7.   .   .    |.   .   .   .   |
+
+Chorus :
+|Bb7 .   B7  .   |Bb7 .   A7  .   |Ab-7.   .   .    |Eb-7.   .   .   |
+|Eb-7.   .   .   |.   .   .   .   |Eb-7.   .   .    |.   .   .   .   |
+
+
+structure :
+
+instru
+Verse
+Chorus
+Verse
+Chorus x2
+Verse
+Chorus
+instru x2
+
