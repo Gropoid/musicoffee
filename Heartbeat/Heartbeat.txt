@@ -1,0 +1,37 @@
+Heartbeat - Nneka
+
+148 BPM
+
+[Verse]
+|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (arpeges)
+|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (arpeges)
+|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (arpeges)
+|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (arpeges)
+|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (arpeges)
+
+[Chorus]
+|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   |
+|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   |
+|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   |
+|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   |
+
+[Post-Chorus]
+|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   |
+
+[Bridge]
+|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   | (arpeges)
+|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   | (arpeges)
+|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   | (plaquees)
+|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   | (plaquees)
+
+
+structure :
+
+Verse
+Chorus
+Post-Chorus
+Verse
+Chorus
+Post-Chorus
+Bridge
+Chorus
