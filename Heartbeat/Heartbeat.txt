@@ -10,19 +10,19 @@ Heartbeat - Nneka
 |Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (arpeges)
 
 [Chorus]
-|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   |
-|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   |
-|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   |
-|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   |
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   |
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   |
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   |
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   |
 
 [Post-Chorus]
 |Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   |
 
 [Bridge]
-|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   | (arpeges)
-|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   | (arpeges)
-|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   | (plaquees)
-|Bm  .   .   .   |F#  .   .   .   |G  .   .   .    |Em   .   .   .   | (plaquees)
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   | (arpeges)
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   | (arpeges)
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   | (plaquees)
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   | (plaquees)
 
 
 structure :
