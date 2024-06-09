@@ -1,0 +1,35 @@
+Take me home, country roads - John Denver, le dernier dinosaure
+
+85 BPM
+
+Tonalité: A
+
+[Intro]
+|A   .   .   .   |.   .   .   .   |.   .   .   .   |.   .   .   .  |
+
+[Verse]
+|A   .   .   .   |F#m .   .   .   |E   .   .   .   |D   .   A   .   |
+|A   .   | <- han le piège
+|A   .   .   .   |F#m .   .   .   |E   .   .   .   |D   .   A   .   |
+
+[Chorus]
+|A   .   .   .   |E   .   .   .   |F#m .   .   .   |D   .   .   .   |
+|A   .   .   .   |E   .   .   .   |D   .   .   .   |A   .   .   .   |
+
+[Bridge]
+|F#m .   E   .   |A   .   .   .   |D   .   A   .   |E   .   .   .   |
+|F#m .   G   .   |D   .   A   .   |E   .   .   .   |E7  .   .   .   |
+
+[Final]
+|E7  .   .   .   |A   .   .   .   |E7  .   .   .   |A   .   .   .   |A   .   .   A    |
+
+structure :
+
+Intro
+Verse
+Chorus
+Verse
+Chorus
+Chorus
+
+
