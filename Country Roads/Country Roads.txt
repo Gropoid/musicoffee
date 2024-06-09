@@ -4,6 +4,11 @@ Take me home, country roads - John Denver, le dernier dinosaure
 
 Tonalité: A
 
+
+structure :
+Intro - Verse - Chorus - Verse - Chorus - Chorus - Final
+
+
 [Intro]
 |A   .   .   .   |.   .   .   .   |.   .   .   .   |.   .   .   .  |
 
@@ -22,14 +27,4 @@ Tonalité: A
 
 [Final]
 |E7  .   .   .   |A   .   .   .   |E7  .   .   .   |A   .   .   .   |A   .   .   A    |
-
-structure :
-
-Intro
-Verse
-Chorus
-Verse
-Chorus
-Chorus
-
 
