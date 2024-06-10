@@ -3,6 +3,9 @@ If I aint got you - Alicia Keys
 112 BPM?
 Key: G
 
+Structure :
+Intro - Couplet - Pre-Chorus - Chorus - Couplet - Pre-Chorus - Chorus - Chorus - Intro
+
 [Intro] Arpeggios
 |CM7 .   .   |CM7 .   .   |B-7 .   .   |B-7 .   .   |
 |A-7 .   .   |A-7 .   .   |GM7 .   .   |.   A-7 B-7 |
