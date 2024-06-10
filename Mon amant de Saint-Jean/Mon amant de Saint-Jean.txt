@@ -1,0 +1,32 @@
+Mon amant de Saint-Jean - Leon Agel, Emile Carrara
+
+210 BPM
+Key: Em
+
+Structure :
+Intro -
+Couplet - Refrain X4
+ Final
+
+[Couplet]
+|Em  .   .   |Em  .   .   |Em  .   .   |Em  .   .   |
+|A-  .   .   |B7  .   .   |Em  .   .   |Em  .   .   |
+|Em  .   .   |Em  .   .   |A-  .   .   |A-  .   .   |
+|B7  .   .   |B7  .   .   |Em  .   .   |Em  x   x   |
+
+[Refrain]
+|Em  .   .   |Em  .   .   |Em  .   .   |Em  .   .   |
+             (D#)         (D)          (C#)
+|A-  .   .   |A-6 .   .   |Em  .   .   |Em   .  .   |
+(C)
+|A-6 .   .   |A-6 .   .   |Em- .   .   |Em  .   .   |
+|A-  .   .   |C6  .   .   |B7  .   .   |B7  .   .   |
+
+|Em  .   .   |Em  .   .   |Em  .   .   |Em  .   .   |
+|Em  .   .   |D7  .   .   |Em  .   .   |Em  .   .   |
+|A-  .   .   |A-6 .   .   |Em  .   .   |Em  .   .   |
+|F#7 .   .   |B7  .   .   |Em  .   .   |Em  x   x   |
+
+[Final] plaqué
+|A   .   .   |A-6 .   .   |Em  .   .   |Em  .   .   |
+|F#7 .   .   |B7  .   .   |Em  .   .   |Em  x   x   |
