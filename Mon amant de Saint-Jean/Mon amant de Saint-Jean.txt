@@ -1,7 +1,7 @@
-Mon amant de Saint-Jean - Leon Agel, Emile Carrara
+Mon amant de Saint-Jean - Leon Agel, E-ile Carrara
 
 210 BPM
-Key: Em
+Key: E-
 
 Structure :
 Intro -
@@ -9,24 +9,22 @@ Couplet - Refrain X4
  Final
 
 [Couplet]
-|Em  .   .   |Em  .   .   |Em  .   .   |Em  .   .   |
-|A-  .   .   |B7  .   .   |Em  .   .   |Em  .   .   |
-|Em  .   .   |Em  .   .   |A-  .   .   |A-  .   .   |
-|B7  .   .   |B7  .   .   |Em  .   .   |Em  x   x   |
+|E-  .   .   |E-  .   .   |E-  .   .   |E-  .   .   |
+|A-  .   .   |B7  .   .   |E-  .   .   |E-  .   .   |
+|E-  .   .   |E-  .   .   |A-  .   .   |A-  .   .   |
+|B7  .   .   |B7  .   .   |E-  .   .   |E-  x   x   |
 
 [Refrain]
-|Em  .   .   |Em  .   .   |Em  .   .   |Em  .   .   |
-             (D#)         (D)          (C#)
-|A-  .   .   |A-6 .   .   |Em  .   .   |Em   .  .   |
-(C)
-|A-6 .   .   |A-6 .   .   |Em- .   .   |Em  .   .   |
+|E-  .   .   |E-/D# .  .  |E-/D .  .   |E-/C# .  .  |
+|A-/C.   .   |A-6 .   .   |E-  .   .   |E-   .  .   |
+|A-6 .   .   |A-6 .   .   |E-  .   .   |E-  .   .   |
 |A-  .   .   |C6  .   .   |B7  .   .   |B7  .   .   |
 
-|Em  .   .   |Em  .   .   |Em  .   .   |Em  .   .   |
-|Em  .   .   |D7  .   .   |Em  .   .   |Em  .   .   |
-|A-  .   .   |A-6 .   .   |Em  .   .   |Em  .   .   |
-|F#7 .   .   |B7  .   .   |Em  .   .   |Em  x   x   |
+|E-  .   .   |E-  .   .   |E-  .   .   |E-  .   .   |
+|E-  .   .   |D7  .   .   |E-  .   .   |E-  .   .   |
+|A-  .   .   |A-6 .   .   |E-  .   .   |E-  .   .   |
+|F#7 .   .   |B7  .   .   |E-  .   .   |E-  x   x   |
 
 [Final] plaqué
-|A   .   .   |A-6 .   .   |Em  .   .   |Em  .   .   |
-|F#7 .   .   |B7  .   .   |Em  .   .   |Em  x   x   |
+|A   .   .   |A-6 .   .   |E-  .   .   |E-  .   .   |
+|F#7 .   .   |B7  .   .   |E-  .   .   |E-  x   x   |
