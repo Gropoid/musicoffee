@@ -10,7 +10,7 @@ Intro - Couplet - Pre-Chorus - Chorus - Couplet - Pre-Chorus - Chorus - Chorus -
 |CM7 .   .   |CM7 .   .   |B-7 .   .   |B-7 .   .   |
 |A-7 .   .   |A-7 .   .   |GM7 .   .   |.   A-7 B-7 |
 |CM7 .   .   |CM7 .   .   |B-7 .   .   |B-7 .   Bb-7|
-|A-7 .   .   |
+|A-7 .   .   |GM7 ------
 
 [Verse]
 |GM7 .   .   |GM7 .   .   |E-7 .   .   |E-7 .   .   |

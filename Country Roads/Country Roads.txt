@@ -6,7 +6,8 @@ Tonalité: A
 
 
 structure :
-Intro - Verse - Chorus - Verse - Chorus - Chorus - Final
+Intro - Verse - Chorus - Verse - Chorus
+ - Bridge - Chorus - Chorus - Final
 
 
 [Intro]
@@ -26,5 +27,5 @@ Intro - Verse - Chorus - Verse - Chorus - Chorus - Final
 |F#m .   G   .   |D   .   A   .   |E   .   .   .   |E7  .   .   .   |
 
 [Final]
-|E7  .   .   .   |A   .   .   .   |E7  .   .   .   |A   .   .   .   |A   .   .   A    |
+|E7  .   .   .   |A   .   .   .   |E7  .   .   .   |A   .   .   .   |A   .   A-AA      |
 
