@@ -2,31 +2,34 @@ Heartbeat - Nneka
 
 148 BPM
 
+[Intro]
+|Bm  .   .   .   |F#- .   .   .   |G   .   .   .    |.   .   Em   .   | (tralalas)
+
 [Verse]
-|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (arpeges)
-|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (arpeges)
-|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (arpeges)
-|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (arpeges)
-|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (arpeges)
+|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (tralalas)
+|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (tralalas)
+|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (tralalas)
+|Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   | (tralalas)
 
 [Chorus]
-|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   |
-|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   |
-|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   |
-|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   |
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |.   .   Em   .   |
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |.   .   Em   .   |
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |.   .   Em   .   |
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |.   .   Em   .   |
 
 [Post-Chorus]
 |Bm  .   .   .   |.   .   .   .   |.   .   .   .    |.   .   .   .   |
 
 [Bridge]
-|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   | (arpeges)
-|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   | (arpeges)
-|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   | (plaquees)
-|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |Em   .   .   .   | (plaquees)
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |.   .   Em   .   | (arpeges)
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |.   .   Em   .   | (arpeges)
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |.   .   Em   .   | (plaquees)
+|Bm  .   .   .   |F#- .   .   .   |G  .   .   .    |.   .   Em   .   | (plaquees)
 
 
 structure :
 
+Intro
 Verse
 Chorus
 Post-Chorus

@@ -4,9 +4,7 @@ Mon amant de Saint-Jean - Leon Agel, E-ile Carrara
 Key: E-
 
 Structure :
-Intro -
-Couplet - Refrain X4
- Final
+Intro - Couplet - Refrain X4 - Final
 
 [Couplet]
 |E-  .   .   |E-  .   .   |E-  .   .   |E-  .   .   |
