@@ -1,4 +1,5 @@
-Mon amant de Saint-Jean - Leon Agel, E-ile Carrara
+Mon amant de Saint-Jean - Leon Agel, Emile Carrara
+210 BPM                                   Key: E-
 
 210 BPM
 Key: E-
@@ -24,5 +25,5 @@ Intro - Couplet - Refrain X4 - Final
 |F#7 .   .   |B7  .   .   |E-  .   .   |E-  x   x   |
 
 [Final] plaqué
-|A   .   .   |A-6 .   .   |E-  .   .   |E-  .   .   |
+|A-  .   .   |A-6 .   .   |E-  .   .   |E-  .   .   |
 |F#7 .   .   |B7  .   .   |E-  .   .   |E-  x   x   |
