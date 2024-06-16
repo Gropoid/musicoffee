@@ -1,0 +1,22 @@
+Mon amant de Saint-Jean - Leon Agel, Emile Carrara
+84 BPM                                   Key: Bm
+
+
+Structure :
+intro - couplet - refrain - couplet - refrain
+
+[Partout]
+|G   .   .   .   |B- .   .   .   |A   .   .   .    |.   .   F#-   .   |
+ou
+|G   .   .   .   |B- .   .   .   |A   .   .   .    |.   .   B-7/F#.   |
+
+[refrain]
+MG 1 root par mesure
+MD 1 accord par temps
+
+[couplet]
+plaque 1 accord par mesure
+
+[pont]
+MG plaque 1 accord par mesure
+MD balancement de B en octave, en noire
