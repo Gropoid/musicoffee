@@ -1,13 +1,14 @@
-Mon amant de Saint-Jean - Leon Agel, Emile Carrara
+Diamonds - Rihanna
 84 BPM                                   Key: Bm
 
 
 Structure :
-intro - couplet - refrain - couplet - refrain
+refrain - refrain - couplet - couplet - pont - pont - refrain - refrain - refrain - refrain - couplet - couplet - pont - pont - refrain - refrain - refrain - refrain - refrain - refrain
+
 
 [Partout]
 |G   .   .   .   |B- .   .   .   |A   .   .   .    |.   .   F#-   .   |
-ou
+ ou
 |G   .   .   .   |B- .   .   .   |A   .   .   .    |.   .   B-7/F#.   |
 
 [refrain]
