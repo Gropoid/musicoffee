@@ -1,0 +1,12 @@
+I will survive - Gloria Gaynor
+120 BPM                                   Key: Am
+
+Structure :
+Intro - couplet (x7)
+
+[Intro]
+E9 (arpege a fond)
+
+[couplets]
+|A-7 .   .   .   |D-7 .   .   .   |G   .   .   .   |CM7 .   .   .   |
+|FM7 .   .   .   |B-7b5.  .   .   |Es4 .   .   .   |E   .   .   .   |
