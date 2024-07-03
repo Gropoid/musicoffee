@@ -3,7 +3,9 @@ Don't stop me now - Queen
 
 Structure:
 Intro - Verse - Pre-Chorus - Chorus
-- Verse - Pre-Chorus - Bridge - Verse(instru) - Pre-Chorus - Chorus - demi-intro
+      - Verse - Pre-Chorus - Bridge
+      - Verse(instru) - Pre-Chorus - Chorus
+      - demi-intro
 
 [Intro] (106BPM)
 |F   .   .   .   |Am  .   .   .   |Dm  .   .   .   |Gm7 .   .   .   |C   .   .   .   |
