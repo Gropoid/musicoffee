@@ -1,0 +1,24 @@
+Don't stop me now - Queen
+106 - 156 BPM                                   Key: C
+
+Structure:
+Intro - Verse - Pre-Chorus - Chorus - Verse - Pre-Chorus - Chorus - demi-intro
+
+[Intro] (106BPM)
+|C   .   .   .   |Em  .   .   .   |Am  .   .   .   |Dm7 .   .   .   |G   .   .   .   |
+|C   .   .   .   |C7  .   .   .   |F   .   .   .   |Dm7 .   .   .   |A7  .   .   .   |
+|Dm7 .   C   G   |Dm7 .   .   .   |Dm7 .   C   G   |Dm7 .   .   .   |G   .   .   .   |
+
+[Verse]
+|C   .   .   .   |Em  .   .   .   |Am  .   .   .   |Dm7 .   .   .   |G   .   .   .   |
+|C   .   .   .   |Em  .   .   .   |Am  .   .   .   |Dm7 .   .   .   |G   .   .   .   |
+
+[Pre-Chorus]
+|C   .   .   .   |C7  .   .   .   |F   .   .   .   |Dm7 .   .   .   |A7  .   .   .   |
+|Dm7 .   .   .   |A7  .   .   .   |Dm7 .   .   .   |Dm7 .   .   .   |G   .   .   .   |
+
+[Chorus]
+|C   .   Dm  Em  |Am  .   .   .   |Dm7 .   .   .   |G   .   .   .   |C   .   Dm  Em  |
+|Am  .   .   .   |Dm7 .   .   .   |A7  .   .   .   |Dm7 .   C   G   |Dm7 .   .   .   |
+|Dm7 .   C   G   |Dm7 .   .   .   |G   .   .   .   |Eb/F.   .   .   |Eb/F.   .   .   |
+
