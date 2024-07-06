@@ -1,0 +1,22 @@
+Dance Monkey - Tones and I
+95 BPM                                   Key: F#m
+
+Structure : Intro - Verse - Chorus  - Verse - Chorus - Chorus - Bridge - Chorus - Chorus
+
+[Intro]
+|F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
+
+
+[Verse]
+|F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
+|F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
+|F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
+|F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
+
+[Chorus]
+|F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
+|F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
+
+[Bridge] (plaqués)
+|F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
+|F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
