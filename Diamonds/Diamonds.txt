@@ -3,12 +3,16 @@ Diamonds - Rihanna
 
 
 Structure :
-refrain - refrain - couplet - couplet - pont - pont - refrain - refrain - refrain - refrain - couplet - couplet - pont - pont - refrain - refrain - refrain - refrain - refrain - refrain
+refrain - couplet - pont -
+ refrain - refrain - couplet -
+pont - refrain - refrain - refrain
 
 
 [Partout]
 |G   .   .   .   |B- .   .   .   |A   .   .   .    |.   .   F#-   .   |
+|G   .   .   .   |B- .   .   .   |A   .   .   .    |.   .   F#-   .   |
  ou
+|G   .   .   .   |B- .   .   .   |A   .   .   .    |.   .   B-7/F#.   |
 |G   .   .   .   |B- .   .   .   |A   .   .   .    |.   .   B-7/F#.   |
 
 [refrain]

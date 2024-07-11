@@ -8,9 +8,9 @@ Intro - Verse - Pre-Chorus - Chorus
       - demi-intro
 
 [Intro] (106BPM)
-|F   .   .   .   |Am  .   .   .   |Dm  .   .   .   |Gm7 .   .   .   |C   .   .   .   |
-|F   .   .   .   |F7  .   .   .   |Bb  .   .   .   |Gm7 .   .   .   |D7  .   .   .   |
-|Gm7 .   F   C   |Gm7 .   .   .   |Gm7 .   F   C   |Gm7 .   .   .   |C   .   .   .   |
+|F   .   .   .   |Am  .   .   .   |Dm  .   .   .   |Gm  .   .   .   |C   .   .   .   |
+|F   .   .   .   |F7  .   .   .   |Bb  .   .   .   |Gm  .   .   .   |D7  .   .   .   |
+|Gm7 .   F   C   |Gm7 .   .   .   |Gm7 .   F   C   |Gm  .   .   .   |C   .   .   .   |
 
 [Verse]
 |F   .   .   .   |Am  .   .   .   |Dm  .   .   .   |Gm7 .   .   .   |C   .   .   .   |

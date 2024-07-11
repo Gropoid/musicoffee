@@ -6,9 +6,9 @@ Structure:
 Intro - Verse - Pre-Chorus - Chorus - Verse - Pre-Chorus - Chorus - demi-intro
 
 [Intro] (106BPM)
-|C   .   .   .   |Em  .   .   .   |Am  .   .   .   |Dm7 .   .   .   |G   .   .   .   |
-|C   .   .   .   |C7  .   .   .   |F   .   .   .   |Dm7 .   .   .   |A7  .   .   .   |
-|Dm7 .   C   G   |Dm7 .   .   .   |Dm7 .   C   G   |Dm7 .   .   .   |G   .   .   .   |
+|C   .   .   .   |Em  .   .   .   |Am  .   .   .   |Dm  .   .   .   |G   .   .   .   |
+|C   .   .   .   |C7  .   .   .   |F   .   .   .   |Dm  .   .   .   |A7  .   .   .   |
+|Dm7 .   C   G   |Dm7 .   .   .   |Dm7 .   C   G   |Dm  .   .   .   |G   .   .   .   |
 
 [Verse]
 |C   .   .   .   |Em  .   .   .   |Am  .   .   .   |Dm7 .   .   .   |G   .   .   .   |
