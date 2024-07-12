@@ -1,7 +1,7 @@
 Why don't you get a job - The Offspring
 112 BPM                                   Key: F
 
-Structure : Verse( no instru ) - Verse - Chorus - Verse - Chorus - Bridge - Verse - Chorus
+Structure : Verse(no instru) - Verse - Chorus - Verse - Chorus - Bridge - Verse - Chorus
 
 [Verse]
 |F   .   .   .   |Bb  .   .   .   |F   .   .   .   |C   .   .   .   |
@@ -15,3 +15,6 @@ Structure : Verse( no instru ) - Verse - Chorus - Verse - Chorus - Bridge - Vers
 [Bridge]
 |Bb  .   .   .   |Bb  .   .   .   |F   .   .   .   |F   .   .   .   |
 |Bb  .   .   .   |Bb  .   .   .   |G   .   .   .   |C   .   .   .   |
+
+[Final]
+|C   .   .   .   |F   .   .   .   |

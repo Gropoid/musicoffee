@@ -10,7 +10,7 @@ Intro - Verse - Pre-Chorus - Chorus
 [Intro] (106BPM)
 |F   .   .   .   |Am  .   .   .   |Dm  .   .   .   |Gm  .   .   .   |C   .   .   .   |
 |F   .   .   .   |F7  .   .   .   |Bb  .   .   .   |Gm  .   .   .   |D7  .   .   .   |
-|Gm7 .   F   C   |Gm7 .   .   .   |Gm7 .   F   C   |Gm  .   .   .   |C   .   .   .   |
+|Gm7 . F . C .   |Gm7 .   .   .   |Gm7 . F . C .   |Gm  .   .   .   |C   .   .   .   |
 
 [Verse]
 |F   .   .   .   |Am  .   .   .   |Dm  .   .   .   |Gm7 .   .   .   |C   .   .   .   |
@@ -21,9 +21,9 @@ Intro - Verse - Pre-Chorus - Chorus
 |Gm7 .   .   .   |D7  .   .   .   |Gm7 .   .   .   |Gm7 .   .   .   |C   .   .   .   |
 
 [Chorus]
-|F   .   Gm  Am  |Dm  .   .   .   |Gm7 .   .   .   |C   .   .   .   |F   .   Gm  Am  |
-|Dm  .   .   .   |Gm7 .   .   .   |D7  .   .   .   |Gm7 .   F   C   |Gm7 .   .   .   |
-|Gm7 .   F   C   |Gm7 .   .   .   |C   .   .   .   |Ab/Bb.  .   .   |Ab/Bb.  .   .   |
+|F   . Gm. Am.   |Dm  .   .   .   |Gm7 .   .   .   |C   .   .   .   |F   . Gm. Am.   |
+|Dm  .   .   .   |Gm7 .   .   .   |D7  .   .   .   |Gm7 . F . C .   |Gm7 .   .   .   |
+|Gm7 . F . C .   |Gm7 .   .   .   |C   .   .   .   |Ab/Bb.  .   .   |Ab/Bb.  .   .   |
 
 [Bridge]
 |NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |
