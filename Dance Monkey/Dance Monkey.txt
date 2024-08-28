@@ -6,7 +6,6 @@ Structure : Intro - Verse - Chorus  - Verse - Chorus - Chorus - Bridge - Chorus 
 [Intro]
 |F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
 
-
 [Verse]
 |F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
 |F#m .   .   .   |D   .   .   .   |E   .   .   .   |C#m .   .   .   |
