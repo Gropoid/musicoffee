@@ -1,0 +1,37 @@
+Cendrillon - Telephone
+130 BPM                                   Key: A
+
+Structure:
+Intro -
+Verse(x2) - Pre-Chorus - Chorus(x2)
+Verse(x3) - Pre-Chorus - Chorus(x2)
+Verse(x2) - Pre-Chorus - Chorus(x1 - fin de l'histoire)
+Instrumental
+Intro
+Verse(x2) fin sur  D-, A
+
+
+[Intro]
+|A5  .   .   .   |A7M .   .   .   |A6  .   .   .   |D/A .   .   .   |
+|A5  .   .   .   |A7M .   .   .   |A6  .   .   .   |D/A .   .   .   |
+
+[Verse]
+|A   .   .   .   |E/G#.   .   .   |F#- .   .   .   |D   .   .   .   |
+
+[Pre-Chorus]
+|C#  .   .   .   |A   .   .   .   |E   .   .   .   |F#- .   .   .   |
+|B-  .   C#8/B   |D/B .   E/B .   |D   .   G#8/D   |A8/D. B8/D  .   |
+
+[Chorus]
+|A   .   .   .   |E/G#.   .   .   |E/G#. F#-   .   |C#- .   D   .   |
+|A   .   .   .   |E/G#.   .   .   |E/G#. F#-   .   |C#- .   D   .   |
+
+[Instrumental]
+|F#- .   .   .   |.   .   .   .   |D   .   .   .   |.   .   .   .   |
+|A   .   .   .   |E   .   .   .   |D   .   .   .   |.   .   .   .   |
+|F#- .   .   .   |.   .   .   .   |D   .   .   .   |.   .   .   .   |
+|A   .   .   .   |E   .   .   .   |D   .   .   .   |.   .   .   .   |
+|A   .   .   .   |E/G#.   .   .   |F#- .   .   .   |D   .   .   .   |
+|A   .   .   .   |E/G#.   .   .   |F#- .   .   .   |D   .   .   .   |
+
+
