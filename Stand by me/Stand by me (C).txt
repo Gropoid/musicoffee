@@ -1,0 +1,14 @@
+Stand by me - Ben E. King
+? BPM                                   Key: C
+
+Structure : en boucle
+
+[Boucle]
+|C   .   .   .   |C   .   .   .   |A-  .   .   .   |A-  .   .   .   |
+|F   .   .   .   |G   .   .   .   |C   .   .   .   |C   .   .   .   |
+
+
+
+ligne de basse
+1 1 571 1 176 6 56 6  54 4  465 5 571 1
+C C GBC C CBA A GA A  GF F  FAG G GBC C
