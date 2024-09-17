@@ -10,11 +10,11 @@ Riff x2
 
 
 [Riff]
-|b   . b d   . d |e   . e a  a  a#|
+|B   . B D   . D |E   . E A  A  A#|
 
 [Rap Tiger Spice]
-|b   . b d   . d |e   . e a  a  a#| x3
-|b   . b d   . d |e   -   -   -   |
+|B   . B D   . D |E   . E A  A  A#| x3
+|B   . B D   . D |E   -   -   -   |
 
 [Verse/Chorus]
 |F#  . G#-   .   |E   . B .   .   |
