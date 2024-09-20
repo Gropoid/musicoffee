@@ -4,9 +4,11 @@ Stand by me - Ben E. King
 Structure : en boucle
 
 [Boucle]
-|C   .   .   .   |C   .   .   .   |A-  .   .   .   |A-  .   .   .   |
-|F   .   .   .   |G   .   .   .   |C   .   .   .   |C   .   .   .   |
+chords    |C   .   .   .   |C   .   .   .   |A-  .   .   .   |A-  .   .   .   |
+MG         C     C     G B  C     C     C B  A     A       G  A     A     G F
 
+chords   |F   .   .   .   |G   .   .   .   |C   .   .   .   |C   .   .   .   |
+MG       -F     F     F A  G     G     G B  C     C       B  C     C     G B
 
 
 ligne de basse
