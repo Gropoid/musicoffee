@@ -1,0 +1,30 @@
+I want it that way - Backstreet Boys
+100 BPM                                   Key: ?
+
+Structure :
+
+Intro - Verse - Verse - Chorus - Verse - Bridge - Chorus+1 - Chorus+1 - Verse - Outro
+
+[Intro]
+|F#m .   .   .   |D   .   A   .   |F#m .   .   .   |D   .   A   .   |
+
+[Verse]
+|F#m .   .   .   |D   .   A   .   |F#m .   .   .   |D   .   A   .   |
+|F#m .   .   .   |D   .   A   .   |F#m .   .   .   |E   .   A   .   |
+
+[Chorus]
+|D   .   .   .   |E   .   F#m .   |D   .   .   .   |E   .   F#m .   |
+|D   .   .   .   |E   .   A   .   |F#m .   .   .   |E   .   A   .   |
+
+
+[Bridge]
+|D   .   .   .   |E   .   F#m .   |D   .   .   .   |E   .   F#m .   |
+|D   .   .   .   |E   .   A   .   |F#m .   .   .   |C#  .   .   .   |
+|F#m .   .   .   |A   .   .   .   |D   .   .   .   |Bm  .   E   .   |
+|F#m .   .   .   |A   .   .   .   |D   .   .   .   |A   .   E   .   |
+|D   .   .   .   |E   .   F#m .   |D   .   .   .   |E   .   F#m .   |
+|D   .   .   .   |E   .   A   .   |F#m .   .   .   |B   .   .   .   |
+
+[Chorus+1]
+|E   .   .   .   |F#  .   G#m .   |E   .   .   .   |F#  .   G#m .   |
+|E   .   .   .   |F#  .   B   .   |G#m .   .   .   |F#  .   B   .   |
