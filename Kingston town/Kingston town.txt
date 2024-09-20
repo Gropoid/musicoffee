@@ -1,0 +1,26 @@
+Kingston town - UB40 (orig. Lord Creator)
+104 BPM                                   Key: Eb
+
+Structure :
+
+Intro - Verse - Chorus - Verse - Bridge - Chorus - Verse - Outro
+
+[Intro/Bridge]
+|Ab  .   .   .   |Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |
+|Ab  .   .   .   |Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |
+
+[Verse]
+|Ab  .   .   .   |Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |
+|Db  .   .   .   |Eb  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |
+|Ab  .   .   .   |Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |
+|Db  .   .   .   |Eb  .   .   .   |Ab  .   .   .   |Ab  .   .   .   |
+                                                 ( |Fm  .   .   .   | )
+[Chorus]
+|Cm  .   .   .   |Fm  .   .   .   |Gm  .   .   .   |Cm  .   .   .   |
+|Fm  .   .   .   |.   .   .   .   |Bbm .   .   .   |Bb7 .   .   .   |
+|Eb  .   .   .   |.   .   .   .   |
+
+[Outro]
+|Db  .   .   .   |Eb  .   .   .   |Ab  .   .   .   |Fm  .   .   .   |
+|Db  .   .   .   |Eb  .   .   .   |Ab  .   .   .   |Fm  .   .   .   |
+|Db  .   .   .   |Eb  .   .   .   |Ab  .   .   .   |Fm  .   .   .   |
