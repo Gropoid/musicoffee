@@ -1,8 +1,8 @@
-Get Lucky - Daft punk /Pharrel Williams
-120 BPM                                   Key: ?
+Get Lucky - Daft punk / Pharrel Williams
+120 BPM                                   Key: Pas besoin de tonalité quand on est les Daft Punk
 
 
-Structure : ?
+Structure : Loop x 30
 
-[Partout]
+[Loop]
 |Bm7 .   .   .   |D  .   .   .   |F#-7.   .   .    |E   .   .   .   |
