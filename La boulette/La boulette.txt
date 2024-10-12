@@ -1,0 +1,27 @@
+La boulette - Diam's
+100 BPM         Key: Dm
+
+
+Intro - Couplet - Refrain - Couplet - Refrain - Couplet - Refrain - Refrain - Outro
+
+[Intro]
+|Bb  .   .   .   |C   .   .   .   |Bb  .   .   .   |Bb  .   .   .   |
+|Bb  .   .   .   |C   .   .   .   |Bb  .   .   .   |NC  .   .   .   |
+
+
+[Couplet]
+4 fois :
+  piano : |D-  .   .   . G-|D-  .   .   . G-|D-  .   .   . G-|D-  .   .   . G-|
+  basse : |D   . D D   . G |D   . D D   . G |D   . D D   . G |D  .  D D AGF E |
+
+
+[Refrain]
+2 fois :
+  piano : |D-  .   .   . G-|D-  .   .   . G-|D-  .   .   . G-|D-  .   .   . G-|
+  basse : |D   . A Bb  . G |A   . F G   . E |D   . A Bb  . G |A   . F G   . E |
+
+[Outro]
+  piano : |D-  .   .   . G-|D-  .   .   . G-|D-  .   .   . G-|D-  .   .   . G-|
+  chant : |S D I   . A M   |  D I D I A M   |S D I   . A M   |  D I D I A M   |
+
+           ouaaais grosse
