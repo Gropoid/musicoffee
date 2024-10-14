@@ -6,3 +6,11 @@ Structure : Loop x 30
 
 [Loop]
 |Bm7 .   .   .   |D  .   .   .   |F#-7.   .   .    |E   .   .   .   |
+
+
+=================
+
+Bm7:  B  D  F# A
+D:    D  F# A
+F#m7: F# A  C# E
+E:    E  G# B
