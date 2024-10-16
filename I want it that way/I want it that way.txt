@@ -2,7 +2,8 @@ I want it that way - Backstreet Boys
 100 BPM                                   Key: A (-> B)
 
 Structure :
-Intro - Verse - Verse - Chorus - Verse - Bridge - Chorus+1 - Chorus+1 - Chorus+1 - Outro
+Intro - Verse - Verse - Chorus - Verse - Bridge -
+Chorus+1 - Chorus+1 - Chorus+1 - Outro
 
 [Intro]
 |F#m .   .   .   |D   .   A   .   |F#m .   .   .   |D   .   A   .   |
