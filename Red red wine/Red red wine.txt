@@ -1,19 +1,22 @@
-Red red wine - UB40 (
-100 BPM                                   Key: Db
+Red red wine - UB40 (orig. Neil Diamond)
+90 BPM                                   Key: Db
 
 Structure:
-Verse - Pre-Chorus - Chorus
+Verse - Verse - Pre-Chorus - Chorus - Verse - Instru - Chorus - Verse
+(vers. longue : [Verse - Verse - Pre-Chorus - Chorus - Verse - Instru - Chorus - Verse])
+
 
 [Verse]
-|Db  .   Gb  .   |Ab/Eb. Gb/Ab.   |Db  .   Gb  .   |Ab/Eb. Gb/Ab.   |
-|Db  .   Gb  .   |Ab/Eb. Gb/Ab.   |Ab  .   .   .   |Gb .   Ab   .   |
 |Db  .   Gb  .   |Ab/Eb. Gb/Ab.   |Db  .   Gb  .   |Ab/Eb. Gb/Ab.   |
 |Db  .   Gb  .   |Ab/Eb. Gb/Ab.   |Ab  .   .   .   |Gb .   Ab   .   |
 
 [Pre-Chorus]
 |Db  .   Gb  .   |Ab/Eb. Gb/Ab.   |
 
-[Chorus] ?
+[Chorus]
 |Ab  .   .   .   |Db  .   .   .   |Gb  .   .   .   |Db  .   .   .   |
 |Ab  .   .   .   |Db  .   .   .   |Gb  .   .   .   |Ab  .   .   .   |
+
+[Instru]
+|Db  .   Gb  .   |Ab/Eb. Gb/Ab.   |Db  .   Gb  .   |Ab/Eb. Gb/Ab.   |
 
