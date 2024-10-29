@@ -3,8 +3,8 @@ Red red wine - UB40 (orig. Neil Diamond)
 
 Structure:
 Verse - Verse - Pre-Chorus - Chorus - Verse - Instru - Chorus - Verse
-(vers. longue : [Verse - Verse - Pre-Chorus - Chorus - Verse - Instru - Chorus - Verse])
-
+ (vers. longue : [Verse - Verse - Pre-Chorus - Chorus - Verse - Instru - Chorus - Verse])
+Final verse
 
 [Verse]
 |Db  .   Gb  .   |Ab/Eb. Gb/Ab.   |Db  .   Gb  .   |Ab/Eb. Gb/Ab.   |
