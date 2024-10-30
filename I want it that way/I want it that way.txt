@@ -24,7 +24,7 @@ Chorus+1 - Chorus+1 - Chorus+1 - Outro
 |D   .   .   .   |E   .   F#m .   |D   .   .   .   |E   .   F#m .   |
 |D   .   .   .   |E   .   A   .   |F#m .   .   .   |E   .   .   .   |
 
-[Chorus+1]
+[Chorus+1] x3
 |E   .   .   .   |F#  .   G#m .   |E   .   .   .   |F#  .   G#m .   |
 |E   .   .   .   |F#  .   B   .   |G#m .   .   .   |F#  .   B   .   |
 
