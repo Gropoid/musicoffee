@@ -1,0 +1,20 @@
+7 Years - Lukas Graham
+60 BPM                                   Key: Gm
+
+Structure :
+Intro - Chorus - Verse - Chorus - Verse - Chorus - Verse - Chorus -
+  Chorus - Verse(Bb/D) - Bridge - Chorus - Chorus - Cut Chorus
+
+[Intro]
+|Gm  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |.   .   F   .   |
+
+[Chorus]
+|G   .   Bb  .   |Eb  .   .   F   |Gm  .   Bb  .   |Eb  .   .   .   |
+
+[Verse]
+|Gm  . F/A Bb .  |Eb  .   .   F   |Gm  . F/A Bb .  |Eb  .   .   F   |
+                                                 ( |Eb  .   .   Bb/D| )
+
+[Bridge]
+|Eb  . F Gm  .   |F   .   Bb/D.   |Eb  . F Gm  .   |Ds4 .   D   .   |
+|Eb  . G Gm  .   |F   .   Bb/D.   |Eb  . G Gm  .   |Eb  .   .   .   |
