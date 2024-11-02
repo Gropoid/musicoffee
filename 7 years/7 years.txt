@@ -18,4 +18,4 @@ Intro - Chorus - Verse - Chorus - Verse - Chorus - Verse - Chorus -
 
 [Bridge]
 |Eb  . F Gm  .   |F   .   Bb/D.   |Eb  . F Gm  .   |Ds4 .   D   .   |
-|Eb  . G Gm  .   |F   .   Bb/D.   |Eb  . G Gm  .   |Eb  .   .   .   |
+|Eb  . F Gm  .   |F   .   Bb/D.   |Eb  . F Gm  .   |Eb  .   .   .   |
