@@ -6,8 +6,7 @@ Intro - Chorus - Verse - Chorus - Verse - Chorus - Verse - Chorus -
   Chorus - Verse(Bb/D) - Bridge - Chorus - Chorus - Cut Chorus
 
 [Intro]
-|Gm  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |.   .   F   .   |
-|Gm  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |.   .   .   .   |
+|Gm  .   Bb  .   |Eb  .   .   F   |Gm  .   Bb  .   |Eb  .   .   .   |
 
 [Chorus]
 |Gm  .   Bb  .   |Eb  .   .   F   |Gm  .   Bb  .   |Eb  .   .   .   |
