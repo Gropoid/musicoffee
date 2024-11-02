@@ -10,7 +10,7 @@ Intro - Chorus - Verse - Chorus - Verse - Chorus - Verse - Chorus -
 |Gm  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |.   .   .   .   |
 
 [Chorus]
-|G   .   Bb  .   |Eb  .   .   F   |Gm  .   Bb  .   |Eb  .   .   .   |
+|Gm  .   Bb  .   |Eb  .   .   F   |Gm  .   Bb  .   |Eb  .   .   .   |
 
 [Verse]
 |Gm  . F/A Bb .  |Eb  .   .   F   |Gm  . F/A Bb .  |Eb  .   .   F   |
