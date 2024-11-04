@@ -1,0 +1,23 @@
+I can see clearly now - Jimmy Cliff
+120 BPM                                   Key: D ?
+
+Structure:
+Intro - Verse - Chorus x2 - Verse - Chorus - Bridge - Verse - Chorus x7
+
+[Intro]
+|.    .   .   .   |.   .   .   .   |.   .   .   .   |.    .   .   .   |
+
+[Verse]
+|D    .   .   .   |G   .   .   .   |D   .   .   .   |.   .   .   .   |
+|D    .   .   .   |G   .   .   .   |A   .   .   .   |.   .   .   .   |
+|D    .   .   .   |G   .   .   .   |D   .   .   .   |.   .   .   .   |
+
+[Chorus]
+|C    .   .   .   |G   .   .   .   |D   .   .   .   |.   .   .   .   |
+
+[Bridge]
+|F    .   .   .   |.   .   .   .   |C   .   .   .   |.   .   .   .   |
+|F    .   .   .   |.   .   .   .   |A   .   .   .   |C#m .   .   .   |
+|G    .   .   .   |C#m .   .   .   |G   .   .   .   |C   .   .   .   |
+|Bm   .   .   .   |A   .   .   .   |.   .   .   .   |
+
