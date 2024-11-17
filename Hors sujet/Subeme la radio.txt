@@ -1,0 +1,18 @@
+Súbeme la radio - Enrique Iglesias
+95 BPM                                   Key: C
+
+Structure:
+Intro - Chorus - Verse x3 - Chorus - Verse x2 - Chorus - Verse x4 -
+Chorus
+
+
+[Intro]
+|Am    .   .   .   |F   .   .   .   |C   .   .   .   |G    .   .   .   |
+
+
+[Verse]
+|Am    .   .   .   |F   .   .   .   |C   .   .   .   |G    .   .   .   |
+
+[Chorus]
+|Am    .   .   .   |F   .   .   .   |C   .   .   .   |G    .   .   .   |
+|Am    .   .   .   |F   .   .   .   |C   .   .   .   |G    .   .   .   |

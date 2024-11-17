@@ -1,0 +1,22 @@
+Home - Edward Sharpe & The Magnetic Zeros
+110 BPM                                Key: D
+
+piou piou - Verse - Bridge - piou piou - Verse - Bridge - Verse - Verse
+
+[piou piou]
+|Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
+|Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
+
+[Verse]
+|Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
+|Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
+|Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
+|Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
+|Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
+|Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
+
+[Bridge]
+|Em .   .   .   |D   .   A   .   |.   .   Em  .    |.   .   D    .   |
+|A  .   Em  .   |.   .   D   .   |G   .   .   .    |Bm  .   A    .   |
+|D  .   G   .   |.   .   A   .   |.   .   .   .    |.   .   .    .   |
+
