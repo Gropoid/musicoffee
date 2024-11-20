@@ -1,7 +1,9 @@
 Home - Edward Sharpe & The Magnetic Zeros
 110 BPM                                Key: D
 
-piou piou - Verse - Bridge - piou piou - Verse - Bridge - Verse - Verse
+piou piou - Verse - Chorus - Bridge -
+ piou piou - Verse - Chorus - Bridge -
+  Verse - Chorus - quiet Chorus - Bordel final
 
 [piou piou]
 |Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
@@ -12,6 +14,8 @@ piou piou - Verse - Bridge - piou piou - Verse - Bridge - Verse - Verse
 |Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
 |Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
 |Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
+
+[Chorus]
 |Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
 |Bm .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
 
