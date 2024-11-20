@@ -1,0 +1,63 @@
+Mujer divina - Joe Cuba sextet
+100 BPM                                 Key: Fm
+
+
+[Intro]
+f ed ed ed ed dedg|cccc    cde|
+
+|F-7 .   Bb7 .   |G-  .   C9  .   |F-7 .   Bb7 .   |G-  .   C9  .   |
+|F-7 .   Bb7 .   |G-  .   C9  .   |F-7 .   Bb7 .   |G-  .   C9  .   |
+
+[Break 1]
+| ccc eee| ggg bbb|. . ddd dd  |c  . . . |
+
+[Verse 1]
+|Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   |F-7 .   Bb7 .   |
+|Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   |F-7 .   Bb7 .   |
+                                     F       e  d  e |F - arpege
+
+[Estribillo 1]
+|Bb-  .   .   .   |Eb7  .   .   .   |AbM7.   .   .   |Db  .   .   .   |
+|G7   .   .   .   |Gm7b5.   .   .   |C   .   Db  .   |C   .   .   .   |
+                                    |c       d  d  d |c   .   .   .   |
+
+[Verse 2]
+|Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   |F-7 .   Bb7 .   |
+|Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   |
+                                    |F   . C7.   .   |
+
+[Coros]
+|F-7 .   Bb7 .   |Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   | (coro)
+|F-7 .   Bb7 .   |Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   | (pregon)
+|F-7 .   Bb7 .   |Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   | (coro)
+|F-7 .   Bb7 .   |Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   | (pregon)
+|F-7 .   Bb7 .   |Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   | (coro)
+
+[Break 1]
+|. c c c . e e e |. g g g . b b b |
+
+[Mambo]
+|. c d e |
+|F   .   .   .   |Db  .   C7  .   |F   .   .   .   |Db  .   C7  .   | (x8)
+
+[Break 2]
+|c   .   .   . c |e  d  d C7   .   |
+
+[Coros 2]
+|F-7 .   Bb7 .   |Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   | (coro)
+|F-7 .   Bb7 .   |Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   | (pregon)
+|F-7 .   Bb7 .   |Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   | (coro)
+|F-7 .   Bb7 .   |Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   | (pregon)
+|F-7 .   Bb7 .   |Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   | (coro)
+
+[Break 3]
+|c   .   .   . c |e  d  d C7   .   |F7  .   .   .   |
+
+[Estribillo 2]
+|Bb-  .   .   .   |Eb7 .   .   .   |AbM7.   .   .   |Db  .   .   .   |
+|G7   .   G-7b5.  |C7  .   .   .   |
+
+[Final]
+|F-7 .   Bb7 .   |G-  .   C9  .   |F-7 .   Bb7 .   |G-  .   C9  .   |
+|F-7 .   Bb7 .   |G-  .   C9  .   |F-7 .   Bb7 .   |G-  .   C9  .   |
+|F-7 .   Bb7 .   |G-  .   C9  .   |c       cc c  cc|Fm69
