@@ -1,0 +1,17 @@
+Creep - Radiohead
+90 BPM                                   Key: G
+
+Structure : Intro - Verse x2 - Chorus - Verse x2 - Chorus x3 - Verse - Chorus - G
+
+
+[Intro]
+|G   .   .   .   |.   .   .   .   |B   .   .   .   |.   .   .   .   |
+|C   .   .   .   |.   .   .   .   |Cm  .   .   .   |.   .   .   .   |
+
+[Verse]
+|G   .   .   .   |.   .   .   .   |B   .   .   .   |.   .   .   .   |
+|C   .   .   .   |.   .   .   .   |Cm  .   .   .   |.   .   .   .   |
+
+[Chorus]
+|G   .   .   .   |.   .   .   .   |B   .   .   .   |.   .   .   .   |
+|C   .   .   .   |.   .   .   .   |Cm  .   .   .   |.   .   .   .   |
