@@ -1,8 +1,29 @@
 Le paquet ou le jogg - mdr sale fou bah oue
-100 BPM                             Key: Gm
+100 BPM                   Key: Gm
 
 
-
+[Instru]
 |D   .   .   .   |Gm  .   .   .   |Am  .   D   .   |Gm  .   .   .   |
+
+[Yo mec dis moi c'est possible]
+|Gm  .   .   .   |Gm  .   .   .   |D   .   .   .   |Eb  .   D   .   |
+
+[MDR 1m75                       Oui haha]
+|Gm  .   NC  .   |Gm  .   .   .   |Gm  .   .   .   |Gm  .   .   .   |
+
+[MDR ca parle d'expérience]
+|Cm  .   F   .   |Bb  .   NC  .   |D   .   Gm  .   |Cm  .   D   .   |
+|Gm  .   F   .   |D   .   D7  .   |Gm  .   NC  .   |
+
+[MDR Si beau paquet que ça]
+|Cm  .   F   .   |Gm  .   .   .   |A   .   D   .   |
+|Gm  .   .   .   |D   .   .   .   |Gm  .   .   .   |
+
+[Lundi ça me va]
+|Cm  .   .   .   |Gm  .   .   .   |D   .   .   .   |Gm
+
+
+
+
 
 
