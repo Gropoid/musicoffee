@@ -34,10 +34,9 @@ f ed ed ed ed dedg|cccc    cde|
 |F-7 .   Bb7 .   |Gm7b5.   C9  .   |Gm7b5.   C9  .   |F-7 .   Bb7 .   | (coro)
 
 [Break 1]
-|. c c c . e e e |. g g g . b b b |
+|. c c c . e e e |. g g g . c d e |
 
 [Mambo]
-|. c d e |
 |F   .   .   .   |Db  .   C7  .   |F   .   .   .   |Db  .   C7  .   | (x8)
 
 [Break 2]
