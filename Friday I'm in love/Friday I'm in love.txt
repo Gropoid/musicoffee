@@ -2,34 +2,34 @@ Friday I'm in love - The Cure
 136 BPM                                   Key: D
 
 [Intro]
-|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (* 2)
+|D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (*2)
 
 [Verse Long]
-|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
 |Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (*2)
 
 [Chorus]
-|G  .   .   .    |A  .   .   .    |Bm  .   .   .   |G  .   .   .    |
-|D  .   .   .    |A  .   .   .    |
+|G   .   .   .   |A   .   .   .   |Bm  .   .   .   |G   .   .   .   |
+|D   .   .   .   |A   .   .   .   |
 
 [Verse Court]
-|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
 |Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
 
 [Solo]
-|D  .   .   .    |G  .   .   .    |D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |G  .   .   .    |D  .   .   .    |A  .   .   .    |
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A   .   .   .   |
+|Bm  .   .   .   |G   .   .   .   |D  .   .   .    |A   .   .   .   |
 
 [Verse Court]
 
 [Chorus]
 
 [Bridge]
-|Bm  .   .   .   |Cadd9  .   .   .|D   .   .   .   |A  .   .   .    |
-|Bm  .   .   .   |Cadd9  .   .   .|D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |Cadd9  .   .   .|D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |Cadd9  .   .   .|D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |Cadd9.  .   .   |D   .   .   .   |A   .   .   .   |
+|Bm  .   .   .   |Cadd9.  .   .   |D   .   .   .   |A   .   .   .   |
+|Bm  .   .   .   |Cadd9.  .   .   |D   .   .   .   |A   .   .   .   |
+|Bm  .   .   .   |Cadd9.  .   .   |D   .   .   .   |A   .   .   .   |
 
 [Verse Long]
 
