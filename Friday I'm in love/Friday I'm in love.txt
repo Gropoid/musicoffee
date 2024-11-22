@@ -1,26 +1,56 @@
 Friday I'm in love - The Cure
-130 BPM                                   Key: Eb
+136 BPM                                   Key: D
 
 
-Intro - Verse - Verse - Chorus - Verse - Instru - Verse - Chorus - Bridge - Verse - Verse - Instru
+Intro - Verse 1 - Chorus - Verse 2 - Solo - Verse 3 - Chorus - Bridge - Verse 4 - Instru
 
 
 [Intro]
-|Eb  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Eb  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G  .   .   .    |D  .   .   .    |A  .   .   .    |
 
-[Verse] = [Instru]
-|Eb  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
+[Verse 1]
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G  .   .   .    |D  .   .   .    |A  .   .   .    |
 
 [Chorus]
-|Ab  .   .   .   |Bb  .   .   .   |Cm  .   .   .   |Ab  .   .   .   |
-|Eb  .   .   .   |Bb  .   .   .   |
+|G  .   .   .    |A  .   .   .    |Bm  .   .   .   |G  .   .   .    |
+|D  .   .   .    |A  .   .   .    |
+
+[Verse 2]
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+
+[Solo]
+|D  .   .   .    |G  .   .   .    |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G  .   .   .    |D  .   .   .    |A  .   .   .    |
+
+[Verse 3]
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+
+[Chorus]
+|G  .   .   .    |A  .   .   .    |Bm  .   .   .   |G  .   .   .    |
+|D  .   .   .    |A  .   .   .    |
 
 [Bridge]
-|Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
+|Bm  .   .   .   |Cadd9  .   .   .|D   .   .   .   |A  .   .   .    |
+|Bm  .   .   .   |Cadd9  .   .   .|D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |Cadd9  .   .   .|D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |Cadd9  .   .   .|D  .   .   .    |A  .   .   .    |
+
+[Verse 4]
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G  .   .   .    |D  .   .   .    |A  .   .   .    |
+
+[Outro]
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G  .   .   .    |D  .   .   .    |A  .   .   .    |
