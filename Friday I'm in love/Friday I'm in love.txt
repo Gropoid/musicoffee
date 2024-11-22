@@ -1,26 +1,38 @@
 Friday I'm in love - The Cure
-130 BPM                                   Key: Eb
-
-
-Intro - Verse - Verse - Chorus - Verse - Instru - Verse - Chorus - Bridge - Verse - Verse - Instru
-
+136 BPM                                   Key: D
 
 [Intro]
-|Eb  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Eb  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
+|D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (*2)
 
-[Verse] = [Instru]
-|Eb  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
+[Verse 1 Long]
+|D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (*2)
 
 [Chorus]
-|Ab  .   .   .   |Bb  .   .   .   |Cm  .   .   .   |Ab  .   .   .   |
-|Eb  .   .   .   |Bb  .   .   .   |
+|G   .   .   .   |A   .   .   .   |Bm  .   .   .   |G   .   .   .   |
+|D   .   .   .   |A   .   .   .   |
+
+[Verse 2 Court]
+|D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+
+[Solo]
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A   .   .   .   |
+|Bm  .   .   .   |G   .   .   .   |D  .   .   .    |A   .   .   .   |
+
+[Verse 3 Court]
+
+[Chorus]
 
 [Bridge]
-|Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
-|Cm  .   .   .   |Db  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
+|Bm  .   .   .   |Cadd9.  .   .   |D   .   .   .   |A   .   .   .   |
+|Bm  .   .   .   |Cadd9.  .   .   |D   .   .   .   |A   .   .   .   |
+|Bm  .   .   .   |Cadd9.  .   .   |D   .   .   .   |A   .   .   .   |
+|Bm  .   .   .   |Cadd9.  .   .   |D   .   .   .   |A   .   .   .   |
+
+[Verse 4 Long]
+
+[Outro]
+|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (* 2)
