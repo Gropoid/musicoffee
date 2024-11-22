@@ -5,7 +5,7 @@ Friday I'm in love - The Cure
 |D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
 |Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (*2)
 
-[Verse Long]
+[Verse 1 Long]
 |D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
 |Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (*2)
 
@@ -13,7 +13,7 @@ Friday I'm in love - The Cure
 |G   .   .   .   |A   .   .   .   |Bm  .   .   .   |G   .   .   .   |
 |D   .   .   .   |A   .   .   .   |
 
-[Verse Court]
+[Verse 2 Court]
 |D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
 |Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
 
@@ -21,7 +21,7 @@ Friday I'm in love - The Cure
 |D   .   .   .   |G   .   .   .   |D  .   .   .    |A   .   .   .   |
 |Bm  .   .   .   |G   .   .   .   |D  .   .   .    |A   .   .   .   |
 
-[Verse Court]
+[Verse 3 Court]
 
 [Chorus]
 
@@ -31,7 +31,7 @@ Friday I'm in love - The Cure
 |Bm  .   .   .   |Cadd9.  .   .   |D   .   .   .   |A   .   .   .   |
 |Bm  .   .   .   |Cadd9.  .   .   |D   .   .   .   |A   .   .   .   |
 
-[Verse Long]
+[Verse 4 Long]
 
 [Outro]
 |D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
