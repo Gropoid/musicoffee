@@ -1,27 +1,19 @@
 Friday I'm in love - The Cure
 136 BPM                                   Key: D
 
-
-Intro - Verse 1 - Chorus - Verse 2 - Solo - Verse 3 - Chorus - Bridge - Verse 4 - Instru
-
-
 [Intro]
 |D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
-|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |G  .   .   .    |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (* 2)
 
-[Verse 1]
+[Verse Long]
 |D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
-|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |G  .   .   .    |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (*2)
 
 [Chorus]
 |G  .   .   .    |A  .   .   .    |Bm  .   .   .   |G  .   .   .    |
 |D  .   .   .    |A  .   .   .    |
 
-[Verse 2]
+[Verse Court]
 |D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
 |Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
 
@@ -29,13 +21,11 @@ Intro - Verse 1 - Chorus - Verse 2 - Solo - Verse 3 - Chorus - Bridge - Verse 4 
 |D  .   .   .    |G  .   .   .    |D  .   .   .    |A  .   .   .    |
 |Bm  .   .   .   |G  .   .   .    |D  .   .   .    |A  .   .   .    |
 
-[Verse 3]
+[Verse Court]
 |D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
 |Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
 
 [Chorus]
-|G  .   .   .    |A  .   .   .    |Bm  .   .   .   |G  .   .   .    |
-|D  .   .   .    |A  .   .   .    |
 
 [Bridge]
 |Bm  .   .   .   |Cadd9  .   .   .|D   .   .   .   |A  .   .   .    |
@@ -43,14 +33,8 @@ Intro - Verse 1 - Chorus - Verse 2 - Solo - Verse 3 - Chorus - Bridge - Verse 4 
 |Bm  .   .   .   |Cadd9  .   .   .|D  .   .   .    |A  .   .   .    |
 |Bm  .   .   .   |Cadd9  .   .   .|D  .   .   .    |A  .   .   .    |
 
-[Verse 4]
-|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
-|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |G  .   .   .    |D  .   .   .    |A  .   .   .    |
+[Verse Long]
 
 [Outro]
 |D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
-|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |G  .   .   .    |D  .   .   .    |A  .   .   .    |
+|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (* 2)
