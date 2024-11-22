@@ -1,0 +1,22 @@
+Good riddance - Green Day
+96 BPM                                   Key: G
+
+Structure: Intro - Verse - Chorus - Verse - Chorus - Instru - Chorus - Chorus -Outro
+
+
+|G   .   .   .   |C   .   D   .   |G   .   .   .   |C   .   D   .   |
+
+[Verse]
+|G   .   .   .   |C   .   D   .   |G   .   .   .   |C   .   D   .   |
+|Em  .   D   .   |C   .   G   .   |Em  .   D   .   |C   .   G   .   |
+
+[Chorus]
+|Em  .   G   .   |Em  .   G   .   |Em  .   D   .   |G   .   .   .   |
+|C   .   D   .   |G   .   .   .   |C   .   D   .   |
+
+[Instru]
+|G   .   .   .   |C   .   D   .   |G   .   .   .   |C   .   D   .   |
+|Em  .   D   .   |C   .   G   .   |Em  .   D   .   |C   .   G   .   |
+
+[Outro]
+slow down, G
