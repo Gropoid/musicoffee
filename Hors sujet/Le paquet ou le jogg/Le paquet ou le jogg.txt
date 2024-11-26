@@ -1,4 +1,4 @@
-Le paquet ou le jogg - mdr sale fou bah oue
+Le paquet ou le jogg - Pepites Vinted
 100 BPM                   Key: Gm
 
 
@@ -16,7 +16,7 @@ Le paquet ou le jogg - mdr sale fou bah oue
 |Gm  .   F   .   |D   .   D7  .   |Gm  .   NC  .   |
 
 [MDR Si beau paquet que ça]
-|Cm  .   F   .   |Gm  .   .   .   |A   .   D   .   |
+|Cm  .   F   .   |Gm  .   .   .   |Adim.   D   .   |
 |Gm  .   .   .   |D   .   .   .   |Gm  .   .   .   |
 
 [Lundi ça me va]
