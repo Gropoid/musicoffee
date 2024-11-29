@@ -1,50 +1,38 @@
 Jimmy - Moriarty
-126 BPM
+126 BPM            Key : C
 
 [Intro]
-| Am  .  .  .  | C  .  .  . |
-| G   .  .  .  | F  .  .  . | (*3)
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*3)
 
 [Verse]
-| Am  .  .  .  | C  .  .  . |
-| G   .  .  .  | F  .  .  . | (*3)
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*3)
 
-[PreChorus]
-| Am  .  .  .  | C  .  .  . |
-| G   .  .  .  | Em  .  . . |
-| Em  .  .  .  | E  .  .  . |
-| E   .  .  .  |
+[Instru long]
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |Em  .   .   .   |
+|Em  .   .   .   |E   .   .   .   |E   .   .   .   |
 
 [Verse]
-| Am  .  .  .  | C  .  .  . |
-| G   .  .  .  | F  .  .  . | (*3)
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*3)
 
-[PreChorus]
-| Am  .  .  .  | C  .  .  . |
-| G   .  .  .  | Em .  .  . |
-| E   .  .  .  |
+[Instru court]
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |Em  .   .   .   |
+|E   .   .   .   |
 
 [Chorus]
-| Am  .  .  .  | F  .  .  . |
-| G   .  .  .  | Am .  .  . | (*4)
+|Am  .   .   .   |F   .   .   .   |G   .   .   .   |Am  .   .   .   | (*4)
 
 [Bridge]
-| Am  .  .  .  | F  .  .  . |
-| G   .  .  .  | Am .  .  . | (*3)
+|Am  .   .   .   |F   .   .   .   |G   .   .   .   |Am  .   .   .   | (*4)
 
 [Verse]
-| Am  .  .  .  | C  .  .  . |
-| G   .  .  .  | F  .  .  . | (*4)
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*4)
 
-[PreChorus]
-| Am  .  .  .  | C  .  .  . |
-| G   .  .  .  | Em .  .  . |
-| E   .  .  .  |
+[Instru court]
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |Em  .   .   .   |
+|E   .   .   .   |
 
 [Chorus]
-| Am  .  .  .  | F  .  .  . |
-| G   .  .  .  | Am .  .  . | (*4)
+|Am  .   .   .   |F   .   .   .   |G   .   .   .   |Am  .   .   .   | (*4)
 
 [Outro]
-| Am  .  .  .  | F  .  .  . |
-| G   .  .  .  | Am .  .  . | (*4)
+|Am  .   .   .   |F   .   .   .   |G   .   .   .   |Am  .   .   .   | (*4)
