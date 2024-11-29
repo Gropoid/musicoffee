@@ -2,12 +2,12 @@ Friday I'm in love - The Cure
 136 BPM                                   Key: D
 
 [Intro]
-|D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
-|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (*2)
+||D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+ |Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   || (*2)
 
 [Verse 1 Long]
-|D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
-|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (*2)
+||D   .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   |
+ |Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   || (*2)
 
 [Chorus]
 |G   .   .   .   |A   .   .   .   |Bm  .   .   .   |G   .   .   .   |
@@ -34,5 +34,5 @@ Friday I'm in love - The Cure
 [Verse 4 Long]
 
 [Outro]
-|D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
-|Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   | (* 2)
+||D   .   .   .   |G   .   .   .   |D  .   .   .    |A  .   .   .    |
+ |Bm  .   .   .   |G   .   .   .   |D   .   .   .   |A   .   .   .   || (* 2)
