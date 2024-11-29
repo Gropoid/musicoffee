@@ -1,0 +1,50 @@
+Jimmy - Moriarty
+126 BPM
+
+[Intro]
+| Am  .  .  .  | C  .  .  . |
+| G   .  .  .  | F  .  .  . | (*3)
+
+[Verse]
+| Am  .  .  .  | C  .  .  . |
+| G   .  .  .  | F  .  .  . | (*3)
+
+[PreChorus]
+| Am  .  .  .  | C  .  .  . |
+| G   .  .  .  | Em  .  . . |
+| Em  .  .  .  | E  .  .  . |
+| E   .  .  .  |
+
+[Verse]
+| Am  .  .  .  | C  .  .  . |
+| G   .  .  .  | F  .  .  . | (*3)
+
+[PreChorus]
+| Am  .  .  .  | C  .  .  . |
+| G   .  .  .  | Em .  .  . |
+| E   .  .  .  |
+
+[Chorus]
+| Am  .  .  .  | F  .  .  . |
+| G   .  .  .  | Am .  .  . | (*4)
+
+[Bridge]
+| Am  .  .  .  | F  .  .  . |
+| G   .  .  .  | Am .  .  . | (*3)
+
+[Verse]
+| Am  .  .  .  | C  .  .  . |
+| G   .  .  .  | F  .  .  . | (*4)
+
+[PreChorus]
+| Am  .  .  .  | C  .  .  . |
+| G   .  .  .  | Em .  .  . |
+| E   .  .  .  |
+
+[Chorus]
+| Am  .  .  .  | F  .  .  . |
+| G   .  .  .  | Am .  .  . | (*4)
+
+[Outro]
+| Am  .  .  .  | F  .  .  . |
+| G   .  .  .  | Am .  .  . | (*4)
