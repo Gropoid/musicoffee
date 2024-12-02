@@ -37,7 +37,7 @@ f ed ed ed ed dedg|cccc    cde|
 |. c c c . e e e |. g g g . c d e |
 
 [Mambo]
-|F   .   .   .   |Db  .   C7  .   |F   .   .   .   |Db  .   C7  .   | (x8)
+|F   .   .   .   |Db  .   C7  .   |F   .   .   .   |Db  .   C7  .   | (x4)
 
 [Break 2]
 |c   .   .   . c |e  d  d C7   .   |
