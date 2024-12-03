@@ -4,17 +4,17 @@ Jimmy - Moriarty
 [Intro]
 |Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*3)
 
-[Verse]
+[Verse 1]
 |Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*3)
 
-[Instru long]
+[Instru]
 |Am  .   .   .   |C   .   .   .   |G   .   .   .   |Em  .   .   .   |
 |Em  .   .   .   |E   .   .   .   |E   .   .   .   |
 
-[Verse]
+[Verse 2]
 |Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*3)
 
-[Instru court]
+[Instru]
 |Am  .   .   .   |C   .   .   .   |G   .   .   .   |Em  .   .   .   |
 |E   .   .   .   |
 
@@ -24,10 +24,10 @@ Jimmy - Moriarty
 [Bridge]
 |Am  .   .   .   |F   .   .   .   |G   .   .   .   |Am  .   .   .   | (*4)
 
-[Verse]
+[Verse3]
 |Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*4)
 
-[Instru court]
+[Instru]
 |Am  .   .   .   |C   .   .   .   |G   .   .   .   |Em  .   .   .   |
 |E   .   .   .   |
 
