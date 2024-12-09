@@ -1,4 +1,7 @@
 [1]Dommage, Big et oli
+[2]Dernière danse, Indila
+[3]hanikuni polo and pan
+
 
 [2]Soeurs, Dana
 
@@ -11,8 +14,6 @@
 [99]Bâtiment afro, dj Vielo
 
 [5]Dépassé, nuit incolore
-
-[2]Dernière danse, Indila
 
 [3]Parapluie, jack
 
@@ -32,6 +33,5 @@
 
 [3]Tu parles trop (rue kétanou?)
 
-[3]hanikuni polo and pan
 
 [wtf] alibi Yseult
