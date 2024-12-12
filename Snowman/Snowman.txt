@@ -6,7 +6,7 @@ Structure : Intro - Verse - PreChorus - Chorus
 
 
 [Intro]
-|Db     .      .      .      |.      .      .      .      |
+|Db     .      .      .      |.      .      .       .      |
 
 [Verse]
 |Ebm    .      .      .      |Ab     .      Ab7     .      |
@@ -17,7 +17,6 @@ Structure : Intro - Verse - PreChorus - Chorus
 [PreChorus]
 |F      .      Bbm    .      |Ab     .      Db     .      |
 |F      .      Bbm    .      |Gb     .      Ab     .      |
-
 
 [Chorus]
 |Db     .      F      .      |Bbm    .      Gb     .      |

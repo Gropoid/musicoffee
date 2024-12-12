@@ -1,3 +1,5 @@
+[Intro]
+
 [Chorus]
 Last Christmas, I gave you my heart
 But the very next day, you gave it away
@@ -10,9 +12,9 @@ But the very next day, you gave it away (you gave it away)
 This year, to save me from tears
 I'll give it to someone special (special)
 
-[?]
+[Instrumental]
 
-[n]
+[Verse]
 Once bitten and twice shy
 I keep my distance, but you still catch my eye
 Tell me, baby, do you recognize me?
@@ -36,7 +38,7 @@ But the very next day, you gave it away
 This year, to save me from tears
 I'll give it to someone special (special)
 
-[?]
+[Instrumental]
 
 [Verse]
 A crowded room, friends with tired eyes

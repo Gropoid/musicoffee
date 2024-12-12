@@ -20,12 +20,6 @@ Structure: Intro - Verse - Verse - Instru - Verse - Verse - Verse
 |C   .   .   .   |C   .   .   .   |C   .   .   .   |C   .   .   .   |
 |G   .   .   .   |G   .   .   .   |Am  .   .   .   |Am  .   .   .   |
 
-
-I  I  I  I
-IV IV I  I
-I  I  I  I
-V  V  vi vi
-
 [Intro Harmonica D]
 +3 +4 -4 +5     +4-4 +5 +4  +3
  .  .  . |D...|. .    .  .  |....|
@@ -49,3 +43,8 @@ V  V  vi vi
 +3 +4 +5 -4
 -4
 -3''
+___________
+I  I  I  I
+IV IV I  I
+I  I  I  I
+V  V  vi vi
