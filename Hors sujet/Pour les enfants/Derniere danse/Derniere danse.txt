@@ -1,0 +1,19 @@
+Derniere danse - Indila
+108 BPM                                   Key: Cm
+
+Structure : Intro - Couplet - Couplet - Refrain
+                              - Couplet - Refrain
+                                - Couplet - Refrain - Intro
+
+
+[Couplet]
+|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
+|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
+|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
+|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
+
+[Refrain]
+|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
+|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
+|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
+|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
