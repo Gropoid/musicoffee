@@ -7,13 +7,13 @@ Structure : Intro - Couplet - Couplet - Refrain
 
 
 [Couplet]
-|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
-|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
-|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
-|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
+|Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
+|Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
+|Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
+|Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
 
 [Refrain]
-|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
-|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
-|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
-|Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |Cm  .   Fm   .   |C/Ebm  .   G7/D   .   |
+|Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
+|Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
+|Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
+|Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
