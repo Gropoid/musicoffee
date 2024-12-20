@@ -1,0 +1,68 @@
+Dancing Queen - ABBA
+100 BPM Key: A
+
+Structure: Intro - Chorus 1 - Pre-Verse - Verse 1 - Chorus 2 - Pre-Verse - Verse 2 - Chorus 3
+
+[Intro]
+|A       .   .   .   |D/A    .   .      .    |
+|A       .   .   .   |D/A    .   .      .    |
+|A       .   .   .   |D/A    .   .      .    |
+|C#m/A   .   A   .   |E/G#   .   D/F#   A/E  |
+
+
+[Chorus 1]
+|E       .   .   .   |C#/F    .   .   .   |
+|F#m     .   .   .   |D#dim   .   .   .   |
+|D       .   .   .   |Bm      .   .   .   |
+
+[Pre-Verse]
+|E       .   A   .   |
+|D/A     .   A   .   |
+|D/A     .   A   .   |
+
+[Verse 1]
+|A       .      .     .     |D/A    .   .   .     |
+|A       .      .     .     |F#m    .   .   .     |
+|E       .      .     Esus4 |E      .   .   Esus4 |
+|E       .      .     Esus4 |E      F#m E   F#m   |
+|A       .      .     .     |D/A    .   .   .     |
+|A       .      .     .     |F#m    .   .   .     |
+|E       .      .     Esus4 |E      .   .   Esus4 |
+|E       .      .     Esus4 |E      F#m E   F#m   |
+|Bsus2   Bm     Bsus2 Bm    |E      .   A   .     |
+
+[Chorus 2]
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|C#m/A  .       A     .     |E/G#    .      D/F#   A/E    |
+|E      .       .     .     |C#/F    .      .      .      |
+|F#m    .       .     .     |D#dim   .      .      .      |
+|D      .       .     .     |Bm      .      .      .      |
+|E      .       A     .     |D/A     .      .      .      |
+
+[Verse 2]
+|A       .      .     .     |D/A    .   .   .     |
+|A       .      .     .     |F#m    .   .   .     |
+|E       .      .     Esus4 |E      .   .   Esus4 |
+|E       F#m    E     F#m   |Bsus2  Bm  E   Eadd9 |
+
+[Chorus 3]
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|C#m/A  .       A     .     |E/G#    .      D/F#   A/E    |
+|E      .       .     .     |C#/F    .      .      .      |
+|F#m    .       .     .     |D#dim   .      .      .      |
+|D      .       .     .     |Bm      .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+|A      .       .     .     |D/A     .      .      .      |
+
