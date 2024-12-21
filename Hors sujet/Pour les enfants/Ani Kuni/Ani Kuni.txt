@@ -1,0 +1,26 @@
+Ani Kuni - Polo & Pan
+120 BPM                                   Key: Dm
+
+Structure : Intro - Couplet - Couplet - Refrain
+                              - Couplet - Refrain
+                                - Couplet - Refrain - Intro
+
+
+
+[Intro]
+|Dm  .   .   .   |F   .   .   .   |G   .   .   .   |Bb  .   .   .   |
+|Dm  .   .   .   |F   .   .   .   |G   .   .   .   |Dm  .   .   .   |Dm  .   .   .   |
+
+
+|Dm  .   .   .   |F   .   .   .   |G   .   .   .   |Bb  .   .   .   |
+|Dm  .   .   .   |F   .   .   .   |G   .   .   .   |A7  .   .   .   |
+|Dm  .   .   .   |F   .   .   .   |G   .   .   .   |Bb  .   .   .   |
+|Dm  .   .   .   |F   .   .   .   |G   .   .   .   |Dm  .   .   .   |
+|Dm  .   .   .   |
+|Dm  .   .   .   |.   .   .   .   |G   .   .   .   |Bb  .   .   .   |
+|Dm  .   .   .   |.   .   .   .   |G   .   .   .   |A   .   .   .   |
+
+
+[Refrain?]
+|Dm  .   .   .   |F   .   .   .   |Gm  .   .   .   |Bb  .   .   .   |
+|Dm  .   .   .   |F   .   .   .   |G   .   .   .   |A  .   .   .   |

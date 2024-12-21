@@ -3,12 +3,10 @@ Derniere danse - Indila
 
 Structure : Intro - Couplet - Couplet - Refrain
                               - Couplet - Refrain
-                                - Couplet - Refrain - Intro
+                       (instru) - Couplet - Refrain - Intro
 
 
 [Couplet]
-|Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
-|Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
 |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
 |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |Cm  .   Fm   .   |Cm/Eb  .   G7/D   .   |
 
