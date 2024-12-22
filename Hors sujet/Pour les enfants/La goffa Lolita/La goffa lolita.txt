@@ -1,0 +1,25 @@
+La goffa lolita - La petite culotte
+130 BPM                                   Key: Am
+
+Intro - couplet - pre-refrain - refrain
+       - couplet - pre-refrain - refrain
+        - pont - refrain - refrain ad lib.
+
+
+
+[intro] = [couplet]
+|Am  .   .   .   |.   .   .   .   |G   .   .   .   |.   .   .   .   |
+|F   .   .   .   |.   .   .   .   |E   .   .   .   |.   .   .   .   |
+|Am  .   .   .   |.   .   .   .   |G   .   .   .   |.   .   .   .   |
+|F   .   .   .   |.   .   .   .   |E   .   .   .   |.   .   .   .   |
+
+[pre-refrain]
+|E   .   .   .   |.   .   .   .   |.   .   .   .   |NC  .   .   .   |
+
+[refrain]
+|Am  .   .   .   |.   .   .   .   |G   .   .   .   |.   .   .   .   |
+|F   .   .   .   |.   .   .   .   |E   .   .   .   |.   .   .   .   |
+
+[pont]
+|Am  .   .   .   |F   .   .   .   |G   .   .   .   |Em  .   .   .   |
+|F   .   .   .   |D   .   .   .   |E   .   .   .   |.   .   .   .   |
