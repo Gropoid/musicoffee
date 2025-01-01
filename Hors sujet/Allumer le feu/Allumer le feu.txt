@@ -1,0 +1,27 @@
+Allumer le feu - Zazie/Obispo/Jaconelli
+140 BPM                                   Key: Bm
+
+
+Structure :
+Instru - Verse - Pre-chorus - Chorus - 1/2 Instru
+  - Verse - Pre-chorus - Chorus - 1/2 Instru
+     - Pre-chorus trainant
+     - Chorus - Chorus - Chorus pouet-pouet la guitare - Chorus
+
+
+
+[Verse] = [Instru]
+|Bm  .   .   .   |.   .   .   .   |E   .   .   .   |.   .   .   .   |
+|A   .   .   .   |.   .   .   .   |F#m .   .   .   |.   .   .   .   |
+|Bm  .   .   .   |.   .   .   .   |E   .   .   .   |.   .   .   .   |
+|A   .   .   .   |.   .   .   .   |F#m .   .   .   |.   .   .   .   |
+
+[Pre-Chorus]
+|G   .   .   .   |.   .   .   .   |E   .   .   .   |.   .   .   .   |
+|G   .   .   .   |.   .   .   .   |A   .   .   .   |.   .   .   .   |
+
+[Chorus]
+|Bm  .   .   .   |D   .   .   .   |E   .   .   .   |G   .   .   .   |
+|Bm  .   .   .   |G   .   .   .   |A   .   .   .   |.   .   .   .   |
+|Bm  .   .   .   |D   .   .   .   |E   .   .   .   |G   .   .   .   |
+|Bm  .   .   .   |G   .   .   .   |A   .   .   .   |.   .   .   .   |
