@@ -1,0 +1,19 @@
+Hey Jude - the Beatles
+70 BPM       Key: F
+
+Verse - Verse - Chorus
+  Verse - Chorus
+   Verse - Chorus - nanana ad lib
+
+
+[Verse]
+|F   .   .   .   |C   .   .   .   |C7  .   .   .   |F   .   .   .   |
+|Bb  .   .   .   |F   .   .   .   |C   .   C7  .   |F   .   (F7M)   |
+
+[Chorus]
+|F7  .   .   .   |Bb  .   D-/A.   |Gm  .   Gm/F.   |C/E .   C   .   |F   .   .   .Bb/F|
+|F7  .   .   .   |Bb  .   D-/A.   |Gm  .   Gm/F.   |C/E .   C   .   |F   .   .   .Bb/F|
+|F7  .   .   .   |   C  F/C  C7      |
+
+[Final]
+|F   .   .   .   |Eb  .   .   .   |Bb  .   .   .   |F  .   .   .   |
