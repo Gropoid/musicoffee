@@ -1,0 +1,44 @@
+Dancing Queen - ABBA
+100 BPM Key: A
+
+Structure:
+Intro - Short Chorus -
+ Verse - Verse - Pre-Chorus - Chorus -
+   Verse 3 - Pre-Chorus - Long Chorus
+
+[Intro]
+|A   .    .    .    |D/A .    .    .    |A   .    .    .    |D/A .    .    .    |
+|A   .    .    .    |D/A .    .    .    |A   .    .    E/G# |D/A .    A    .    |
+
+[Short Chorus]
+|E   .    .    .    |C#m .    .    .    |F#m .    .    .    |Bm  .    .    .    |
+|D   .    .    .    |Bm  .    .    .    |A   .    .    .    |D/A .    .    .    |
+|A   .    .    D/A  |A   .    .    D/A  |
+
+[Verse 1]
+|A   .    .    .    |D/A .    .    .    |A   .    .    .    |F#m .    .    .    |
+|E   .    .    Esus4|E   .    .    Esus4|E   F#m  .    .    |E   F#m  .    .    |
+[Repeat Verse 1]
+
+[Pre-Chorus]
+|Bm  .    .    .    |E   .    .    .    |
+|A   .    .    .    |D/A .    .    .    |A   .    .    .    |D/A .    .    .    |
+|A   .    .    .    |D/A .    .    .    |C#m/A.   A    .    |E/G#.    D/F# A/E  |
+
+[Chorus]
+|E   .    .    .    |C#m .    .    .    |F#m .    .    .    |Bm  .    .    .    |
+|D   .    .    .    |Bm  .    .    .    |A   .    .    .    |D/A .    .    .    |
+|A   .    .    .    |D/A .    .    .    |A   .    .    D/A  |A   .    .    D/A  |
+
+[Verse 3]
+
+[Pre-Chorus]
+[Final Chorus]
+|E   .    .    .    |C#m .    .    .    |F#m .    .    .    |Bm  .    .    .    |
+|D   .    .    .    |Bm  .    .    .    |A   .    .    .    |D/A .    .    .    |
+|A   .    .    .    |D/A .    .    .    |A   .    .    .    |D/A .    .    .    |
+|A   .    .    .    |D/A .    .    .    |A   .    .    .    |D/A .    .    .    |
+|A   .    .    .    |D/A .    .    .    |A   .    .    .    |D/A .    .    .    |
+|A   .    .    .    |D/A .    .    .    |A   .    .    .    |D/A .    .    .    |
+|A   .    D/A  A    |
+
