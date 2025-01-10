@@ -4,47 +4,65 @@ Dancing Queen - ABBA
 Structure: Intro - Chorus 1 - Pre-Verse - Verse 1 - Chorus 2 - Pre-Verse - Verse 2 - Chorus 3
 
 [Intro]
-|A   .   .   .   |D/A .   .   .   |A   .   .   .   |D/A .   .    .   |
-|A   .   .   .   |D/A .   .   .   |C#m/A.  A   .   |E/G#.   D/F# A/E |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       E/G#    |D/A    .       A       .       |
+
 
 [Chorus 1]
-|E   .   .   .   |C#/F.   .   .   |F#m .   .   .   |D#dim.   .   .   |
-|D   .   .   .   |Bm  .   .   .   |A   .   .   .   |D    .   .   .   |
-|A   .   D/A .   |A   .   D/A .   |
+|E      .       .       .       |C#m    .       .       .       |
+|F#m    .       .       .       |Bm     .       .       .       |
+|D      .       .       .       |Bm     .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       D/A     |A      .       .       D/A     |
 
 [Verse 1]
-|A     .   .     .     |D/A  .   .   .     |A   .   .   .     |F#m  .   .   .   |
-|E     .   .     Esus4 |E    .   .   Esus4 |E   .   .   Esus4 |E    F#m E   F#m |
-|A     .   .     .     |D/A  .   .   .     |A   .   .   .     |F#m  .   .   .   |
-|E     .   .     Esus4 |E    .   .   Esus4 |E   .   .   Esus4 |E    F#m E   F#m |
-|Bsus2 Bm  Bsus2 Bm    |E    .   A   .     |
-
-[Pre-Chorus]
-|A   .   .   .   |D/A .   .    .    |A     .   .   .   |D/A   .   .    .    |
-|A   .   .   .   |D/A .   .    .    |C#m/A .   A   .   |E/G#  .   D/F# A/E  |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |F#m    .       .       .       |
+|E      .       .       Esus4   |E      .       .       Esus4   |
+|E      F#m     .       .       |E      F#m     .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |F#m    .       .       .       |
+|E      .       .       Esus4   |E      .       .       Esus4   |
+|E      .       .       Esus4   |E      F#m     .       .       |
+|E      F#m     .       .       |Bm     .       .       .       |
+|E      .       .       .       |
 
 [Chorus 2]
-|E   .   .   .   |C#/F .   .   .   |F#m .   .   .   |D#dim .   .   .   |
-|D   .   .   .   |Bm   .   .   .   |A   .   .   .   |D     .   .   .   |
-|A   .   .   .   |D    .   .   .   |A   .   D/A .   |A     .   D/A .   |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|C#m/A  .       A       .       |E/G#   .       D/F#    A/E     |
+|E      .       .       .       |C#m    .       .       .       |
+|F#m    .       .       .       |Bm     .       .       .       |
+|D      .       .       .       |Bm     .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
 
 [Verse 2]
-|A   .   .   .     |D/A .   .   .     |A   .   .   .     |F#m   .   .   .     |
-|E   .   .   Esus4 |E   .   .   Esus4 |E   F#m E   F#m   |Bsus2 Bm  E   Eadd9 |
-[TODO il manque 2 mesures ici]
-
-[Pre-Chorus]
-|A     .   .   .   |D/A  .   .    .    |A     .   .   .   |D/A  .   .    .    |
-|A     .   .   .   |D/A  .   .    .    |C#m/A .   A   .   |E/G# .   D/F# A/E  |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |F#m    .       .       .       |
+|E      .       .       Esus4   |E      .       .       Esus4   |
+|E      F#m     .       .       |Bm     .       E       .       |
 
 [Chorus 3]
-|E   .   .   .   |C#/F .   .   .   |F#m .   .   .   |D#dim .   .   .   |
-|D   .   .   .   |Bm   .   .   .   |A   .   .   .   |D/A   .   .   .   |
-
-[Outro]
-|A   .   .   .   |D/A .   .   .   |A   .   .   .   |D/A .   .   .   |
-|A   .   .   .   |D/A .   .   .   |A   .   .   .   |D/A .   .   .   |
-|A   .   .   .   |D/A .   .   .   |A   .   .   .   |D/A .   .   .   |
-|A   .   .   .   |D/A .   .   .   |A   .   .   .   |D/A .   .   .   |
-|A   .   .   .   |D/A .   .   .   |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|C#m/A  .       A       .       |E/G#   .       D/F#    A/E     |
+|E      .       .       .       |C#m    .       .       .       |
+|F#m    .       .       .       |Bm     .       .       .       |
+|D      .       .       .       |Bm     .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
+|A      .       .       .       |D/A    .       .       .       |
 
