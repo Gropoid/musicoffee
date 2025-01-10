@@ -9,7 +9,6 @@ Structure: Intro - Chorus - Verse 1 - Pre-Chorus - Chorus - Verse 2 - Pre-Chorus
 |A      .       .       .       |D/A    .       .       .       |
 |A      .       .       E/G#    |D/A    .       A       .       |
 
-
 [Chorus]
 |E      .       .       .       |C#m    .       .       .       |
 |F#m    .       .       .       |Bm     .       .       .       |
@@ -22,14 +21,14 @@ Structure: Intro - Chorus - Verse 1 - Pre-Chorus - Chorus - Verse 2 - Pre-Chorus
 |A      .       .       .       |F#m    .       .       .       |
 |E      .       .       Esus4   |E      .       .       Esus4   |
 |E      F#m     .       .       |E      F#m     .       .       |
+
 |A      .       .       .       |D/A    .       .       .       |
 |A      .       .       .       |F#m    .       .       .       |
 |E      .       .       Esus4   |E      .       .       Esus4   |
-|E      .       .       Esus4   |E      F#m     .       .       |
-|E      F#m     .       .       |Bm     .       .       .       |
-|E      .       .       .       |
+|E      F#m     .       .       |E      F#m     .       .       |
 
 [Pre-Chorus]
+|Bm     .       .       .       |E      .       .       .       |
 |A      .       .       .       |D/A    .       .       .       |
 |A      .       .       .       |D/A    .       .       .       |
 |A      .       .       .       |D/A    .       .       .       |
@@ -48,9 +47,9 @@ Structure: Intro - Chorus - Verse 1 - Pre-Chorus - Chorus - Verse 2 - Pre-Chorus
 |A      .       .       .       |F#m    .       .       .       |
 |E      .       .       Esus4   |E      .       .       Esus4   |
 |E      F#m     .       .       |E      F#m     .       .       |
-|Bm     .       E       .       |
 
 [Pre-Chorus]
+|Bm     .       .       .       |E       .      .       .       |
 |A      .       .       .       |D/A    .       .       .       |
 |A      .       .       .       |D/A    .       .       .       |
 |A      .       .       .       |D/A    .       .       .       |
