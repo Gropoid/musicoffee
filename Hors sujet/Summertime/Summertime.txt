@@ -1,0 +1,16 @@
+Summertime
+60 BPM     Key : Dm
+
+Interlude - Interlude - Verse
+ - Interlude - Verse
+  - Interlude - Verse
+
+[Interlude]
+|Dm6 .   A7/E.   |Dm/F.   A7/E.   |
+
+[Verse]
+|Dm6 .   A7/E.   |Dm/F.   A7/E.   |Dm6 .   A7/E.   |Dm/F.   A7/E.   |
+|GM7 .   Am7 .   |Bb7M.   Bdim7.  |E79+.   .   .   |A+7 .   .   .   |
+|Dm6 .   A7/E.   |Dm/F.   A7/E.   |Dm6 .   A7/E.   |Dm/F.   G79 .   |
+|F   .   .   .   |E79+.   A7+ .   |
+
