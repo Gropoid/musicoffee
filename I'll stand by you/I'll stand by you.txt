@@ -1,0 +1,31 @@
+I'll stand by you - The Pretenders
+96 BPM                                   Key: D
+
+Structure :
+Intro - Verse - Bridge - Chorus -
+  Verse-1 - Bridge-1 - Chorus - Chorus -
+    Instru - Bridge  - Chorus (x6)
+
+[Intro]
+|D   .   Bm  .   |A   .   G   .   |
+
+[Verse]
+|D   .   .   .   |F#m .   .   .   |G   .   .   .   |D/A .   A   A/C#|
+|D   .   .   Bm  |F#m .   .   .   |G   .   .   .   |D/A .   A   .   |
+
+[Bridge]
+|F#m .   Bm  .   |F#m .   Bm  .   |G   .   .   .   |A   .   .   .   |
+
+[Chorus]
+|D   .   .   .   |Bm7 .   .   .   |Am7 .   .   G/A |
+
+[Verse -1]
+|D   .   F   G   |
+|C   .   .   .   |Em  .   .   .   |F   .   .   .   |C   .   G   G/C#|
+|C   .   .   Am  |Em  .   .   .   |F   .   .   .   |C   .   G   .   |
+
+[Bridge -1]
+|Em  .   Am  .   |Em   .  Am  .   |F   .   .   .   |G   .   .   .   |
+
+[Instru]
+|D   .   .   .   |Bm7 .   .   .   |G   .   .   .   |Bm  .   A   .   |
