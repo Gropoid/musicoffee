@@ -17,17 +17,17 @@ Riff x2
 |B   . B D   . D |E   -   -   -   |
 
 [Verse/Chorus]
-|F#  . G#-   .   |E   . B .   .   |
-|F#  . G#-   .   |E   . B .   .   |
-|F#  . G#-   .   |E   . B .   .   |
-|F#  . G#-   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
 
 [Verse/Chorus alt.]
                   know how I feel ...
                   gotta get w/ my friends...
 |-   -   -   -   |E   . B .   .   |
-|F#  . G#-   .   |E   . B .   .   |
-|F#  . G#-   .   |E   . B .   .   |
-|F#  . G#-   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
 
 

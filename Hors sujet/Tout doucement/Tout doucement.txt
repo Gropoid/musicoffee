@@ -1,0 +1,19 @@
+Tout doucement - Bibie
+70 BPM       Key: Dm
+
+Intro  - Verse
+  - Verse - Chorus
+   - Verse - Chorus
+    - Verse - Chorus
+
+
+[Verse]
+|Dm  .   .   .   |A/C#.   .   .   |Dm  .   .   .   |A/C#.   .   .   |
+|Bb  .   .   .   |F/A .   .   .   |Gm7 .   .   .   |Gb/C.   C   .   |
+
+
+[Chorus]
+|Bb  .   .   .   |F   .   .   .   |A/C#.   .   .   |Dm  .   .   .   |
+|G/B .   Bb/C.   |C   .   .   .   |Bb  .   .   .   |F   .   .   .   |
+|A/C#.   .   .   |Dm  .   .   .   |G   .   .   .   |C   .   .   .   |
+
