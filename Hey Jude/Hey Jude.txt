@@ -13,7 +13,7 @@ Verse - Verse - Chorus
 [Chorus]
 |F7  .   .   .   |Bb  .   D-/A.   |Gm  .   Gm/F.   |C/E .   C   .   |F   .   .   .Bb/F|
 |F7  .   .   .   |Bb  .   D-/A.   |Gm  .   Gm/F.   |C/E .   C   .   |F   .   .   .Bb/F|
-|F7  .   .   .   |   C  F/C  C7      |
+|F7  .   C F C7  |C7  .   C F/C C7|C7  .   |
 
 [Final]
 |F   .   .   .   |Eb  .   .   .   |Bb  .   .   .   |F  .   .   .   |
