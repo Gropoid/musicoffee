@@ -1,0 +1,19 @@
+Sitting on the dock of the bay - Otis Redding
+106 BPM        Key: G
+
+Intro - Verse - Chorus - Verse - Chorus - Bridge - Verse - Chorus - Finale
+
+
+[Intro]
+|G   .   .   .   |G   .   .   .   |
+
+[Verse]
+|G   .   .   .   |B7  .   .   .   |C   .   .C B Bb |A   .   .   .   |
+|G   .   .   .   |B7  .   .   .   |C   .   .C B Bb |A   .   .   .   |
+
+[Chorus]
+|G   .   .   .   |Em  .   .   .   |G   .   .   .   |Em  .   .   .   |
+|G   .   .   .   |A7  .   .   .   |G   .   .   .   |E7  .   .   .   |
+
+[Finale]
+|E7  .   .   .   |E7  .   .   .   |
