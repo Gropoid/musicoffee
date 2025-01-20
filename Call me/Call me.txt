@@ -1,0 +1,34 @@
+Call me - Blondie
+75 BPM
+
+Instru - Verse - Chorus
+ - Instru - Verse - Chorus -
+  - Instru - Bridge - Solo -
+   - Instru - Chorus - Chorus - Chorus
+
+[Instru]
+|Dm  .   .   G F |Dm  .   .   F C |Dm  .   .   G F |Dm  .   .   F C |
+|Dm  .   .   G F |Dm  .   .   F C |Dm  .   .   G F |Dm  .   .   F C |
+
+[Verse]
+|Dm  .   .   .   |Bb  .   .   .   |Dm  .   .   .   |Bb  .   .   .   |
+|Gm  .   A   .   |Gm  .   A   .   |
+
+[Chorus]
+|Dm  .   F   .   |Gm  .   Bb  .   |Dm  .   F   .   |Gm  .   Bb  .   |
+
+
+[Bridge]
+|Em  .   .   A G |Em  .   .   G D |
+|Em  .   .   .   |Bm  .   .   .   |Em  .   .   .   |Bm  .   .   .   |
+|F   .   .   .   |C   .   .   .   |Dm  .   .   .   |Bb  .   .   .   |
+|G   .   .   .   |Am  .   .   .   |
+
+[Solo]
+|Em  .   .   .   |Bb  .   .   .   |Em  .   .   .   |Bb  .   .   .   |
+|F   .   .   .   |C   .   .   .   |Dm  .   .   .   |Bb  .   .   .   |
+|G   .   .   .   |Am  .   .   .   |
+
+
+
+
