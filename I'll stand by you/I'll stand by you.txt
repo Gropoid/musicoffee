@@ -8,6 +8,7 @@ Intro - Verse - Bridge - Chorus -
 
 [Intro]
 |D   .   Bm  .   |A   .   G   .   |
+|G   .   |
 
 [Verse]
 |D   .   .   .   |F#m .   .   .   |G   .   .   .   |D/A .   A   A/C#|
@@ -29,3 +30,4 @@ Intro - Verse - Bridge - Chorus -
 
 [Instru]
 |D   .   .   .   |Bm7 .   .   .   |G   .   .   .   |Bm  .   A   .   |
+|A   .   |
