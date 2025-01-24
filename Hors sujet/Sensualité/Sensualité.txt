@@ -1,0 +1,25 @@
+Sensualité - Axelle Red
+95 BPM                                   Key: B
+
+Intro - Verse - Chorus
+  Verse - Chorus - Bridge -
+    Verse+1 - Chorus+1 - Chorus +1
+
+
+[Intro]
+|A   .   .   .   |.   .   .   .   |A   .   .   .   |.   .   .   .   |
+|B   .   .   .   |
+
+[Verse]
+|B   .   .   .   |B7M .   .   .   |B9  .   .   .   |E   .   Em  .   |
+|B   .   .   .   |B7M .   .   .   |B9  .   .   .   |E   .   Em  .   |
+|D#m .   G#m .   |G   .   A   .   |
+
+[Chorus]
+|B   .   D#m .   |E   .   F#  .   |B   .   D#m .   |E   .   F#  .   |
+|B   .   D#m .   |E   .   F#  .   |B   .   G#m .   |E   .   F#  .   |
+|B   .   .   .   |F#m7.   .   .   |
+
+[Bridge]
+|G#m .   .   .   |.   .   .   .   |F#  .   .   .   |.   .   .   .   |
+|D#m7.   .   .   |C#m7.   .   .   |B   .   D#m7.   |F#  .   G#  .   |
