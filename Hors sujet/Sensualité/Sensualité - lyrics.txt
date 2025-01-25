@@ -43,9 +43,13 @@ Ne fais pas semblant
 Je t'aimerai encore
 Et encore
 
+
+[Verse +1]
+...
 Désir ou amour
 Tu le sauras un jour
 
+[Chorus +1]
 J'aime, j'aime tes yeux
 J'aime ton odeur
 Tous tes gestes en douceur
@@ -56,6 +60,7 @@ J'aimerais que ce moment
 Fixe pour des tas d'années
 Ta sensualité
 
+[Chorus +1]
 Tes yeux, j'aime ton odeur
 Tous tes gestes en douceur
 Lentement dirigés

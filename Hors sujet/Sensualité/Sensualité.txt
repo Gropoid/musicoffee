@@ -13,13 +13,22 @@ Intro - Verse - Chorus
 [Verse]
 |B   .   .   .   |B7M .   .   .   |B9  .   .   .   |E   .   Em  .   |
 |B   .   .   .   |B7M .   .   .   |B9  .   .   .   |E   .   Em  .   |
-|D#m .   G#m .   |G   .   A   .   |
+|D#m .   G#m .   |G   .   A   .   |A   .   .   .   |
 
 [Chorus]
 |B   .   D#m .   |E   .   F#  .   |B   .   D#m .   |E   .   F#  .   |
-|B   .   D#m .   |E   .   F#  .   |B   .   G#m .   |E   .   F#  .   |
+|B   .   D#m .   |E   .   F#  .   |B   .   G#m .   |E   .   .   .   |
 |B   .   .   .   |F#m7.   .   .   |
 
 [Bridge]
 |G#m .   .   .   |.   .   .   .   |F#  .   .   .   |.   .   .   .   |
 |D#m7.   .   .   |C#m7.   .   .   |B   .   D#m7.   |F#  .   G#  .   |
+
+[Verse +1]
+|C#  .   .   .   |C#7M.   .   .   |C#9 .   .   .   |F#  .   F#m .   |
+|C#  .   .   .   |C#7M.   .   .   |C#9 .   .   .   |F#  .   F#m .   |
+|Fm  .   A#m .   |A   .   B   .   |B   .   .   .   |
+
+[Chorus +1]
+|C#  .   Fm  .   |F#  .   G#  .   |C#  .   Fm  .   |F#  .   G#  .   |
+|C#  .   Fm  .   |F#  .   G#  .   |C#  .   A#m .   |F#  .   .   .   |
