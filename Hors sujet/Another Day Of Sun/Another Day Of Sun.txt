@@ -1,0 +1,58 @@
+Another Day of sun - Justin Hurwitz/Benj Pasek/Justin Paul
+Key:Cm                  126 bpm
+
+Intro - Verse 1 - Pre-Chorus - Chorus 
+       - Verse 2 - Pre-Chorus - Chorus
+        - Interlude - Bridge - Chorus - Outro
+
+[Intro]
+|Ab  .   .   .   |Bb  .   .   .   |Cm  .   .   .   |Gm  .   .   .   |
+|Ab  .   .   .   |Bb  .   .   .   |Cm  .   .   .   |Gm  .   .   .   |
+
+[Verse 1]
+|Fm  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |C7  .   .   .   |
+|Fm  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |C7  .   .   .   |
+|Fm  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |C7  .   .   .   |
+|Fm  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |C7  .   .   .   |
+
+[Pre-Chorus]
+|Ab  .   .   .   |Bb  .   .   .   |Cm  .   .   .   |Ab  .   G7  .   |
+|Ab  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |G7  .   .   .   |
+
+[Chorus]
+|Ab  .   .   .   |Bb  .   Eb  .   |Fm  .   .   .   |Bb  .   Eb  .   |
+|Cm  .   .   .   |Eb  .   .   .   |Cm  .   .   .   |Eb  .   .   .   |
+|Cm  .   .   .   |Eb  .   .   .   |Eb  .   .   .   |G7  .   .   .   |
+
+[Verse 2]
+|Fm  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |C7  .   .   .   |
+|Fm  .   .   .   |Bb  .   .   .   |Eb   .   .   .  |C7  .   .   .   |
+
+[Pre-Chorus]
+|Ab  .   .   .   |Bb  .   .   .   |Cm  .   .   .   |Ab  .   G7  .   |
+|Ab  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |G7  .   .   .   |
+
+[Chorus]
+|Ab  .   .   .   |Bb  .   Eb  .   |Fm  .   .   .   |Bb  .   Eb  .   |
+|Cm  .   .   .   |Bb  .   .   .   |Cm  .   .   .   |Bb  .   .   .   |
+|Cm  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |G7  .   .   .   |
+
+[Interlude]
+|Ab  .   .   .   |Bb  .   .   .   |Cm  .   .   .   |Gm  .   .   .   |
+|Ab  .   .   .   |Bb  .   .   .   |Cm  .   .   .   |Gm  .   .   .   |
+|Ab  .   .   .   |Bb  .   .   .   |Eb  .   .   .   |G7  .   .   .   |
+
+[Bridge]
+|Cm  .   .   .   |Bb  .   .   .   |Cm  .   .   .   |Bb  .   .   .   |
+|E   .   .   .   |A   .   .   .   |
+
+[Chorus]
+|B   .   .   .   |C#m .   .   .   |B   .   .   .   |A   .   .   .   |
+|B   .   .   .   |C#m .   .   .   |B   .   .   .   |A   .   .   .   |
+|B   .   .   .   |C#m .   .   .   |B   .   .   .   |A   .   .   .   |
+|B   .   .   .   |A   .   .   .   |
+
+[Outro]
+|B   .   .   .   |C#m .   .   .   |A   .   .   .   |G#m .   .   .   |
+|A   .   .   .   |B   .   .   .   |C#m .   .   .   |G#  .   .   .   |
+|E   .   .   .   |

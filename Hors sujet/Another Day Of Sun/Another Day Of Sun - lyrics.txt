@@ -1,8 +1,8 @@
+[Intro]
 Ba-ba-da-ba, da-ba-da-ba
 Ba-ba-da-ba, da-ba-da-ba
 Ba-ba-da-ba, da-ba-da-ba
 Ba-ba-ba-ba
-
 
 [Verse 1]
 I think about that day
@@ -17,6 +17,8 @@ Right as they dimmed out all the lights
 A Technicolor world made out of music and machine
 It called me to be on that screen
 And live inside each scene
+
+[Pre-Chorus]
 Without a nickel to my name
 Hopped a bus, here I came
 Could be brave or just insane
@@ -43,6 +45,8 @@ The ballads in the barrooms
 Left by those who came before
 They say "you gotta want it more"
 So I bang on every door
+
+[Pre-Chorus]
 And even when the answer's "no"
 Or when my money's running low
 The dusty mic and neon glow
