@@ -1,5 +1,5 @@
 Sensualité - Axelle Red
-95 BPM                                   Key: B
+95 BPM                                   Key: B -> C#
 
 Intro - Verse - Chorus
   Verse - Chorus - Bridge -
@@ -22,7 +22,7 @@ Intro - Verse - Chorus
 
 [Bridge]
 |G#m .   .   .   |.   .   .   .   |F#  .   .   .   |.   .   .   .   |
-|D#m7.   .   .   |C#m7.   .   .   |B   .   D#m7.   |F#  .   G#  .   |
+|D#m7.   .   .   |C#m7.   .   .   |.   .   D#m7.   |F#  .   G#  .   |
 
 [Verse +1]
 |C#  .   .   .   |C#7M.   .   .   |C#9 .   .   .   |F#  .   F#m .   |
