@@ -1,0 +1,19 @@
+Dans la salle du bar-tabac de la rue des Martyrs - Pigalle
+160 BPM                 Key : Em ?
+
+Verse Chorus Verse Chorus Bridge
+  Verse Chorus Verse Chorus Bridge
+
+[Verse]
+|Em  .   D   .   |Em  .   D   .   |Em  .   D   .   |Em  .   D   .   |
+|Em  .   D   .   |Em  .   D   .   |Em  .   D   .   |Em  .   D   .   |
+
+[Chorus]
+|C   .   .   .   |Em  .   .   .   |C   .   .   .   |Em  .   .   .   |
+|D   .   .   .   |D   .   .   .   |
+
+[Bridge]
+|Dm  .   .   .   |C   .   .   .   |Dm  .   .   .   |Bb  .   .   .   |
+|Dm  .   .   .   |C   .   .   .   |Dm  .   .   .   |Dm  .   .   .   |
+|Dm  .   .   .   |C   .   .   .   |Dm  .   .   .   |Bb  .   .   .   |
+
