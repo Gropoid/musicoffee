@@ -1,0 +1,38 @@
+Jimmy - Moriarty
+126 BPM            Key : C
+
+[Intro]
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*3)
+
+[Verse 1]
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*3)
+
+[Instru]
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |Em  .   .   .   |
+|Em  .   .   .   |E   .   .   .   |E   .   .   .   |
+
+[Verse 2]
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*3)
+
+[Instru]
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |Em  .   .   .   |
+|E   .   .   .   |
+
+[Chorus]
+|Am  .   .   .   |F   .   .   .   |G   .   .   .   |Am  .   .   .   | (*4)
+
+[Bridge]
+|Am  .   .   .   |F   .   .   .   |G   .   .   .   |Am  .   .   .   | (*4)
+
+[Verse3]
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |F   .   .   .   | (*4)
+
+[Instru]
+|Am  .   .   .   |C   .   .   .   |G   .   .   .   |Em  .   .   .   |
+|E   .   .   .   |
+
+[Chorus]
+|Am  .   .   .   |F   .   .   .   |G   .   .   .   |Am  .   .   .   | (*4)
+
+[Outro]
+|Am  .   .   .   |F   .   .   .   |G   .   .   .   |Am  .   .   .   | (*4)

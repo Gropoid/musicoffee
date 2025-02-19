@@ -1,0 +1,33 @@
+Wannabe - The Spice Girls
+108 BPM                          Key: B
+
+Structure :
+Riff x3 - Verse -
+Riff x2 - Chorus - Verse alt. -
+Riff x2 - Chorus alt. -
+Rap Scary Spice - Chorus - Chorus -
+Riff x2
+
+
+[Riff]
+|B   . B D   . D |E   . E A  A  A#|
+
+[Rap Scary Spice]
+|B   . B D   . D |E   . E A  A  A#| x3
+|B   . B D   . D |E   -   -   -   |
+
+[Verse/Chorus]
+|F#  . G#m   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
+
+[Verse/Chorus alt.]
+                  know how I feel ...
+                  gotta get w/ my friends...
+|-   -   -   -   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
+|F#  . G#m   .   |E   . B .   .   |
+
+

@@ -1,0 +1,24 @@
+Raggamuffin - Selah Sue
+100 BPM                                   Key: Gm
+
+Structure:
+Intro - Couplet - Refrain - Couplet-  Refrain - Outro
+
+[Intro]
+|Gm   .   .   .   |Cm  .   .   .   |Gm  .   .   .   |Cm   .   .   .   |
+
+[Couplet]
+|Gm   .   .   .   |Cm  .   .   .   |Dm  .   .   .   |Cm   .   .   .   |
+|Gm   .   .   .   |Cm  .   .   .   |Dm  .   .   .   |Cm   .   .   .   |
+|Gm   .   .   .   |Cm  .   .   .   |Dm  .   .   .   |Cm   .   .   .   |
+|Gm   .   .   .   |Cm  .   .   .   |Dm  .   .   .   |Cm   .   .   .   |
+
+[Refrain]
+|Gm   . Gm.   Gm  |Cm  . Cm.   Cm  |Dm  . Dm.   Dm  |Cm   .   .   .   |
+|Gm   . Gm.   Gm  |Cm  . Cm.   Cm  |Dm  . Dm.   Dm  |Cm   .   .   .   |
+
+[Outro]
+|Gm   .   .   .   |Cm  .   .   .   |Dm  .   .   .   |Cm   .   .   .   |
+|Gm   .   .   .   |Cm  .   .   .   |Dm  .   .   .   |Cm   .   .   .   |
+
+
