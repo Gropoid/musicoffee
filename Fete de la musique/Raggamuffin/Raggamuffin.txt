@@ -2,7 +2,7 @@ Raggamuffin - Selah Sue
 100 BPM                                   Key: Gm
 
 Structure:
-Intro - Couplet - Refrain - Couplet-  Refrain - Outro
+Intro - Couplet - Refrain - Couplet - Refrain - Outro
 
 [Intro]
 |Gm   .   .   .   |Cm  .   .   .   |Gm  .   .   .   |Cm   .   .   .   |
