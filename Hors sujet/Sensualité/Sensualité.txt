@@ -18,7 +18,8 @@ Intro - Verse - Chorus
 [Chorus]
 |B   .   D#m .   |E   .   F#  .   |B   .   D#m .   |E   .   F#  .   |
 |B   .   D#m .   |E   .   F#  .   |B   .   G#m .   |E   .   .   .   |
-|B   .   .   .   |F#m7.   .   .   |
+|B   .   .   .   (|F#m7.   .   .   |)
+
 
 [Bridge]
 |G#m .   .   .   |.   .   .   .   |F#  .   .   .   |.   .   .   .   |
