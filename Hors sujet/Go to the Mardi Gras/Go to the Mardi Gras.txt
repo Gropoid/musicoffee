@@ -1,10 +1,12 @@
 Go to the Mardi Gras - Professor Longhair
-160 BPM                 Key : C
+120 BPM                 Key : C
 
 
+[Intro]
+|C7  .   .   .   |C7  .   .   .   |C7  .   .   .   |C7  .   .   .   |
 
 [Loop]
-|C7  .   .   .   |C7  .   .   .   |C7  .   .   .   |C7  .   .   .   |
-|F7  .   .   .   |F7  .   .   .   |C7  .   .   .   |C7  .   .   .   |
-|G7  .   .   .   |NC  .   .   .   |C7  .   .   .   |C7  .   .   .   |
+|C7  .   .   .   |.   .   .   .   |.   .   .   .   |.   .   .   .   |
+|F7  .   .   .   |.   .   .   .   |C7  .   .   .   |.   .   .   .   |
+|G7  .   .   .   |NC  .   .   .   |C   .   .   .   |C   .   .   .   |
 

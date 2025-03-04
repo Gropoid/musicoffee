@@ -1,0 +1,11 @@
+Iko iko (Jock-a-Mo) - Traditional
+212 BPM                 Key : C
+
+
+[Intro]
+|C7  .   .   .   |C7  .   .   .   |C7  .   .   .   |C7  .   .   .   |
+
+[Loop]
+|C   .   .   .   |.   .   .   .   |.   .   .   .   |G7  .   .   .   |
+|F7  .   .   .   |F7  .   .   .   |C7  .   .   .   |C7  .   .   .   |
+|G7  .   .   .   |NC  .   .   .   |C7  .   .   .   |C7  .   .   .   |
