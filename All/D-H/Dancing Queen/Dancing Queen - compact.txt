@@ -11,7 +11,7 @@ Intro - Short Chorus -
 |A   .    .    .    |D/A .    .    .    |A   .    .    E/G# |D/A .    A    .    |
 
 [Short Chorus]
-|E   .    .    .    |C#m .    .    .    |F#m .    .    .    |B   .    .    .    |
+|E   .    .    .    |C#  .    .    .    |F#m .    .    .    |B   .    .    .    |
 |D   .    .    .    |Bm7 .    .    .    |A   .    .    .    |D/A .    .    .    |
 |A   .    .    D/A  |A   .    .    D/A  |
 
