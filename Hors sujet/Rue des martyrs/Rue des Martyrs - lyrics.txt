@@ -1,17 +1,22 @@
-Dans la salle du bar-tabac de la Rue de Martyrs
+[Verse]
+Dans la salle du bar-tabac de la Rue des Martyrs
 Y a des filles de nuit
 Qu'attendent le jour en vendant du plaisir
+[Chorus]
 Y a des ivrognes qui s'épanchent au bar
 Qui glissent lentement le long du comptoir
 Par terre
 
-Dans la salle du bar-tabac de la Rue de Martyrs
+[Verse]
+Dans la salle du bar-tabac de la Rue des Martyrs
 Le patron a un flingue
 Pour l'ingénu qu'en voudrait à la tirelire
+[Chorus]
 Dans les chiottes, les mots gravés sur les murs
 Parlent de sexes géants, d'amour et d'ordures
 Ensemble
 
+[Bridge]
 Ici, chacun doucement oublie l'ombre
 D'une vie passée d'une femme de décombres
 Dans ce cliché funèbre, on cherche l'oubli
@@ -19,20 +24,25 @@ D'un parfum, d'une voix
 On éteint l'impact encore brûlant
 De lèvres entrouvertes, humides et douces
 
+[Verse]
 Dans la salle du bar-tabac de la Rue des Martyrs
 Certains soirs, tout à coup
 Dans un coin, on s'arrête de rire
+[Chorus]
 Et quand brusquement, les lames sortent
 Tout le monde dégage, se jette sur la porte
 En verre
 
+[Verse]
 Dans la salle du bar-tabac de la Rue des Martyrs
 Y a des seringues vidées goulûment
 Dans des bras sans avenir
+[Chorus]
 Ici, la dope, c'est à la poignée
 Les petites cuillères servent que rarement
 Pour le café
 
+[Bridge]
 Ici, chacun doucement oublie l'ombre
 D'une vie passée d'une femme de décombres
 Dans ce cliché funèbre, on cherche l'oubli
@@ -40,16 +50,20 @@ D'un parfum, d'une voix
 On éteint l'impact encore brûlant
 De lèvres entrouvertes, humides et douces
 
+[Verse]
 Dans la salle du bar-tabac de la Rue des Martyrs
 Y a des vieux gars tatoués partout
 Qui racontent leurs souvenirs
+[Chorus]
 Y a des voyageurs tristes, pardessus et valises
 Y a des bookmakers qui ramassent les mises
 La nuit
 
+[Verse]
 Dans la salle du bar-tabac de la Rue des Martyrs
 On peut tout acheter, tout vendre
 Le meilleur et le pire
+[Chorus]
 Une vieille clocharde, la gueule défoncée
 Rentre avec sa poussette et se met à gueuler
 "À boire"
