@@ -25,7 +25,7 @@ Intro - Verse - Chorus
 |G#m .   .   .   |.   .   .   .   |F#  .   .   .   |.   .   .   .   |
 |D#m7.   .   .   |C#m7.   .   .   |.   .   D#m7.   |F#  .   G#  .   |
 
-[Verse +1]
+[Verse +1] (Instru)
 |C#  .   .   .   |C#7M.   .   .   |C#9 .   .   .   |F#  .   F#m .   |
 |C#  .   .   .   |C#7M.   .   .   |C#9 .   .   .   |F#  .   F#m .   |
 |Fm  .   A#m .   |A   .   B   .   |B   .   .   .   |
