@@ -7,12 +7,12 @@ Intro - Short Chorus -
    Verse 3 - Pre-Chorus - Long Chorus
 
 [Intro]
-|A   .    .    .    |D/A .    .    .    |A   .    .    .    |D/A .    .    .    |
+|A   .    .    .    |D/A .    .    .    |A   .    .    *    |D/A .    .    .    |
 |A   .    .    .    |D/A .    .    .    |A   .    .    E/G# |D/A .    A    .    |
 
 [Short Chorus]
 |E   .    .    .    |C#  .    .    .    |F#m .    .    .    |B   .    .    .    |
-|D   .    .    .    |Bm7 .    .    .    |A   .    .    .    |D/A .    .    .    |
+|D   .    .    .    |Bm7 .    .    .    |A   .    .    .    |D/A .    .    *    |
 |A   .    .    D/A  |A   .    .    D/A  |
 
 [Verse 1]
@@ -22,19 +22,22 @@ Intro - Short Chorus -
 
 [Pre-Chorus]
 |Bm  .    .    .    |E   .    .    .    |
-|A   .    .    .    |D/A .    .    .    |A   .    .    .    |D/A .    .    .    |
+|A   .    .    .    |D/A .    .    .    |A   .    .    *    |D/A .    .    .    |
 |A   .    .    .    |D/A .    .    .    |C#m/A.   A    .    |E/G#.    D/F# A/E  |
+                                       (|A   .    .    .    |D/A .    .    .    |)
+                                       (|A   .    .    E/G# |D/A .    A    C#m7 |)
 
 [Chorus]
-|E   .    .    .    |C#  .    .    .    |F#m .    .    .    |Bm  .    .    .    |
-|D   .    .    .    |Bm  .    .    .    |A   .    .    .    |D/A .    .    .    |
+|E   .    .    .    |C#  .    .    .    |F#m .    .    .    |B   .    .    .    |
+|D   .    .    .    |Bm  .    .    .    |A   .    .    *    |D/A .    .    .    |
 |A   .    .    .    |D/A .    .    .    |A   .    .    D/A  |A   .    .    D/A  |
 
 [Verse 2]
 
 [Pre-Chorus]
+
 [Final Chorus]
-|E   .    .    .    |C#  .    .    .    |F#m .    .    .    |Bm  .    .    .    |
+|E   .    .    .    |C#  .    .    .    |F#m .    .    .    |B   .    .    .    |
 |D   .    .    .    |Bm  .    .    .    |A   .    .    .    |D/A .    .    .    |
 |A   .    .    .    |D/A .    .    .    |A   .    .    .    |D/A .    .    .    |
 |A   .    .    .    |D/A .    .    .    |A   .    .    .    |D/A .    .    .    |
