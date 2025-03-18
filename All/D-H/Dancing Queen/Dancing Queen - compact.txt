@@ -12,20 +12,18 @@ Intro - Short Chorus -
 
 [Short Chorus]
 |E   .    .    .    |C#  .    .    .    |F#m .    .    .    |B   .    .    .    |
-|D   .    .    .    |Bm7 .    .    .    |A   .    .    .    |D/A .    .    *    |
+|D   .    .    .    |Bm7 .    .    .    |A   .    .    *    |D/A .    .    .    |
 |A   .    .    D/A  |A   .    .    D/A  |
 
 [Verse 1]
-|A   .    .    .    |D/A .    .    .    |A   .    .    .    |F#m .    .    .    |
+|A   .    .    .    |D/A .    .    .    |A   .    .    .    |F#m7.    .    .    |
 |E   .    .    Esus4|E   .    .    Esus4|E   F#m  .    .    |E   F#m  .    .    |
 [Repeat Verse 1]
 
 [Pre-Chorus]
 |Bm  .    .    .    |E   .    .    .    |
 |A   .    .    .    |D/A .    .    .    |A   .    .    *    |D/A .    .    .    |
-|A   .    .    .    |D/A .    .    .    |C#m/A.   A    .    |E/G#.    D/F# A/E  |
-                                       (|A   .    .    .    |D/A .    .    .    |)
-                                       (|A   .    .    E/G# |D/A .    A    C#m7 |)
+|A   .    .    .    |D/A .    .    .    |AM7 .    .    E/G# |F#-7.    A/E  .    |
 
 [Chorus]
 |E   .    .    .    |C#  .    .    .    |F#m .    .    .    |B   .    .    .    |
