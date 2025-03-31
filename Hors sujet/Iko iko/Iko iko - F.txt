@@ -1,4 +1,4 @@
-Iko iko (JoFk-a-Mo) - Traditional
+Iko iko (Jock-a-Mo) - Traditional
 212 BPM                 Key : F
 
 
@@ -7,7 +7,7 @@ Iko iko (JoFk-a-Mo) - Traditional
 |F   .   .   .   |.   .   .   .   |.   .   .   .   |C7  .   .   .   |
 |.   .   .   .   |.   .   .   .   |.   .   .   .   |F   .   .   .   |
 
-[Fhorus]
+[Chorus]
 |F   .   .   .   |.   .   .   .   |.   .   .   .   |C7  .   .   .   |
 |.   .   .   .   |.   .   .   .   |.   .   .   .   |F   .   .   .   |
 |F   .   .   .   |.   .   .   .   |.   .   .   .   |C7  .   .   .   |
