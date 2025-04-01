@@ -12,7 +12,7 @@ Intro - Verse - Pre-Chorus - Chorus - Verse - Pre-Chorus - Chorus - Outro
 
 [Pre-Chorus]
 |Db  .   Ab/C.   |Gb  .   .   .   |Db  .   Ab/C.   |Gb  .   .   .  |
-|Bbm .   .   .   | Ab   .   .   . |
+|Bbm .   .   .   |Ab  .   .   .   |
 
 [Chorus]
 |Gb  .   .   .   |Db  .   .   .   |Ab  .   .   .   |Bbm .   .   .   |
