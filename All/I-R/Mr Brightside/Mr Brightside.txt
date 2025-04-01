@@ -1,17 +1,17 @@
 Mr. Brightside - The Killers
-148 BPM      c         Key: Db
+148 BPM               Key: Db
 
 Structure:
 Intro - Verse - Pre-Chorus - Chorus - Verse - Pre-Chorus - Chorus - Outro
 
 [Intro]
-|Db  .   Ab/C.   |Gb  .   .   .   |Db  .   Ab/C.   |Gb  .   .   .  |
+|Db  .   Ab/C.   |Gb  .   .   .   |Db  .   Ab/C.   |Gb  .   .   .   |
 
 [Verse]
-|Db  .   Ab/C.   |Gb  .   .   .   |Db  .   Ab/C.   |Gb  .   .   .  |
+|Db  .   Ab/C.   |Gb  .   .   .   |Db  .   Ab/C.   |Gb  .   .   .   |
 
 [Pre-Chorus]
-|Db  .   Ab/C.   |Gb  .   .   .   |Db  .   Ab/C.   |Gb  .   .   .  |
+|Db  .   Ab/C.   |Gb  .   .   .   |Db  .   Ab/C.   |Gb  .   .   .   |
 |Bbm .   .   .   |Ab  .   .   .   |
 
 [Chorus]
@@ -20,4 +20,4 @@ Intro - Verse - Pre-Chorus - Chorus - Verse - Pre-Chorus - Chorus - Outro
 
 [Outro]
 |Bbm .   Ab  .   |Gb  .   .   .   |Bbm .   Ab  .   |Gb  .   .   .   |
-|Db  .   Gb  .   |Bbm .   Ab  .   |(repeat and fade) |
+|Db  .   Gb  .   |Bbm .   Ab  .   |(repeat and fade)|
