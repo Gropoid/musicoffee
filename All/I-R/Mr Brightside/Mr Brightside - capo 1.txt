@@ -2,22 +2,33 @@ Mr. Brightside - The Killers
 148 BPM               Key: C (capo 1)
 
 Structure:
-Intro - Verse - Pre-Chorus - Chorus - Verse - Pre-Chorus - Chorus - Outro
+Intro - Verse - Pre-Chorus - Chorus - Instru -  Verse - Pre-Chorus - Chorus - Instru - Outro
 
 [Intro]
-|C   .   G/B .   |F   .   .   .   |C   .   G/B .   |F   .   .   .   |
+|C   .   .   .   |.   .   .   .   |F   .   .   .   |.   .   .   .   |
 
 [Verse]
-|C   .   G/B .   |F   .   .   .   |C   .   G/B .   |F   .   .   .   |
+|C   .   .   .   |.   .   .   .   |F   .   .   .   |.   .   .   .   |
+|C   .   .   .   |.   .   .   .   |F   .   .   .   |.   .   .   .   |
+|C   .   .   .   |.   .   .   .   |F   .   .   .   |.   .   .   .   |
+|C   .   .   .   |.   .   .   .   |F   .   .   .   |.   .   .   .   |
 
 [Pre-Chorus]
-|C   .   G/B .   |F   .   .   .   |C   .   G/B .   |F   .   .   .   |
-|Am  .   .   .   |G   .   .   .   |
+|Am  .   .   .   |.   .   .   .   |C   .   .   .   |.   .   .   .   |
+|F   .   .   .   |.   .   .   .   |.   .   .   .   |.   .   .   .   |
+|Am  .   .   .   |.   .   .   .   |G   .   .   .   |.   .   .   .   |
+|F   .   .   .   |.   .   .   .   |.   .   .   .   |.   .   .   .   |
 
 [Chorus]
-|F   .   .   .   |C   .   .   .   |G   .   .   .   |Am  .   .   .   |
-|F   .   .   .   |C   .   .   .   |G   .   .   .   |C   .   .   .   |
+|C   .   .   .   |F   .   .   .   |Am  .   .   .   |G   .   .   .   |
+|C   .   .   .   |F   .   .   .   |Am  .   .   .   |G   .   .   .   |
+|C   .   .   .   |F   .   .   .   |Am  .   .   .   |G   .   .   .   |
+|C   .   .   .   |F   .   .   .   |Am  .   .   .   |G   .   .   .   |
+
+[Instru]
+|C   .   .   .   |F   .   .   .   |C   .   .   .   |G   .   .   .   |
+|C   .   .   .   |F   .   .   .   |C   .   .   .   |G   .   .   .   |
 
 [Outro]
-|Am  .   G   .   |F   .   .   .   |Am  .   G   .   |F   .   .   .   |
-|C   .   F   .   |Am  .   G   .   |(repeat and fade)|
+|C   .   .   .   |F   .   .   .   |Am  .   .   .   |G   .   .   .   |
+(repeat and fade)|

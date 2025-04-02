@@ -1,6 +1,8 @@
 Mr. Brightside - The Killers
 148 BPM               Key: Db
 
+ - c'est cassé, cf la version capo 1 pour le moement -
+
 Structure:
 Intro - Verse - Pre-Chorus - Chorus - Verse - Pre-Chorus - Chorus - Outro
 
