@@ -1,0 +1,29 @@
+La pêche à la ligne - Renaud
+112 BPM                                   Key: B
+
+Structure:
+Intro - Couplet - Couplet - Couplet - Intermède 1 - Couplet - Intermède 2 - Final
+
+[Intro]
+|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#   .   .   .   |
+|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#s4 .   .   .   |
+|F#  .   .   .   |
+
+
+[Couplet]
+|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#  .   .   .   |
+|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#  .   .   .   |
+|B   .   .   .   |F#/A# . B .   .   |F#/A# . B .   .   |F#  . E/G#.   .   |
+|F#s4.   .   .   |F#    .   .   .   |D     .   .   .   |D/C .   .   .   |
+|Em  .   .   .   |F#    .   .   .   |F#    .   .   .   |
+
+[Intermède 1]
+|D/C .   .   .   |Em  .   .   .   |F#    .   .   .   |F#    .   .   .   |
+
+[Intermède 2]
+|A   .   .   .   |C#m .   .   .   |E   .   .   .   |F#  .   .   .   |F#  .   .   .   |
+
+[Final]
+|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#  .   .   .   |
+|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#  .   .   .   |
+|E   .   .   .   |F#    .   .   .   |B     .   .   .   |
