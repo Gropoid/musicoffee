@@ -1,0 +1,22 @@
+Do me a favor - HolyBrune
+120 BPM                                   Key: Cm
+
+Structure:
+Instru x2 - Verse - Chorus - Hook
+ - Instru - Verse - Chorus - Hook x2 - Instru ad lib
+
+[Instru]
+|Cm7 .   .   .   |Fm7 .   Gm7 .   |Cm7 .   .   .   |Fm7 .   Gm7 .   |
+
+[Chorus]
+|Cm7 .   .   .   |Fm7 .   Gm7 .   |Cm7 .   .   .   |Fm7 .   Gm7 .   |
+|Cm7 .   .   .   |Fm7 .   Gm7 .   |Cm7 .   .   .   |Fm7 .   Gm7 .   |
+
+[Hook]
+|Fm7 .   .   .   |Gm7 .   .   .   |Fm7 .   .   .   |Gm7 .   .   .   |
+
+[Verse]
+|Cm7 .   .   .   |Bb  .   .   .   |AbM7.   .   .   |Gm7 .   .   .   |
+|Fm7 .   .   .   |Gm7 .   .   .   |Cm7 .   .   .   |Cm7 .   .   .   |
+|Cm7 .   .   .   |Bb  .   .   .   |AbM7.   .   .   |Gm7 .   .   .   |
+|Fm7 .   .   .   |Gm7 .   .   .   |Cm7 .   .   .   |Cm7 .   .   .   |
