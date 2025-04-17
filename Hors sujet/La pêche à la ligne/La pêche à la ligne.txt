@@ -5,25 +5,25 @@ Structure:
 Intro - Couplet - Couplet - Couplet - Intermède 1 - Couplet - Intermède 2 - Final
 
 [Intro]
-|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#   .   .   .   |
-|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#s4 .   .   .   |
+|B   .   .   .   |F#/A# .   .   .   |E/G#  .   .   .   |F#   .   .   .   |
+|B   .   .   .   |F#/A# .   .   .   |E/G#  .   .   .   |F#s4 .   .   .   |
 |F#  .   .   .   |
 
 
 [Couplet]
-|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#  .   .   .   |
-|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#  .   .   .   |
+|B   .   .   .   |F#/A# .   .   .   |E/G#  .   .   .   |F#  .   .   .   |
+|B   .   .   .   |F#/A# .   .   .   |E/G#  .   .   .   |F#  .   .   .   |
 |B   .   .   .   |F#/A# . B .   .   |F#/A# . B .   .   |F#  . E/G#.   .   |
 |F#s4.   .   .   |F#    .   .   .   |D     .   .   .   |D/C .   .   .   |
 |Em  .   .   .   |F#    .   .   .   |F#    .   .   .   |
 
 [Intermède 1]
-|D/C .   .   .   |Em  .   .   .   |F#    .   .   .   |F#    .   .   .   |
+|D   .   .   .   |D/C .   .   .   |Em  .   .   .   |F#  .   .   .   |F# .   .   .   |
 
 [Intermède 2]
 |A   .   .   .   |C#m .   .   .   |E   .   .   .   |F#  .   .   .   |F#  .   .   .   |
 
 [Final]
-|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#  .   .   .   |
-|B   .   .   .   |F#/A# .   .   .   |G#m   .   .   .   |F#  .   .   .   |
-|E   .   .   .   |F#    .   .   .   |B     .   .   .   |
+|B   .   .   .   |F#/A# .   .   .   |E/G#.   .   .   |F#  .   .   .   |
+|B   .   .   .   |F#/A# .   .   .   |E/G#.   .   .   |F#  .   .   .   |
+|E   .   .   .   |F#    .   .   .   |B   .   .   .   |
