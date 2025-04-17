@@ -1,3 +1,4 @@
+[Instru]x2
 [Verse]
 Why
 Can't you decide
@@ -24,6 +25,8 @@ Fall again
 Oh Oh
 All in
 
+[Hook]
+[Instru]
 [Verse]
 Lie
 Kiss me goodbye
@@ -31,7 +34,7 @@ Pretend you didn't know
 It would come to an end
 Just one more night honey
 
-It's a shame
+(It's a )shame
 Let's cut to the chase
 Now!
 I'm flattered by your ploys
@@ -51,3 +54,7 @@ Fall again
 I'd fall again
 Oh Oh Oh
 All in
+
+[Hook]
+[Hook]
+[Instru]x4 ...
