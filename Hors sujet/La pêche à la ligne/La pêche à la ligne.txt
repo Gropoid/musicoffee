@@ -13,7 +13,7 @@ Intro - Couplet - Couplet - Couplet - Intermède 1 - Couplet - Intermède 2 - Fi
 [Couplet]
 |B   .   .   .   |F#/A# .   .   .   |E/G#  .   .   .   |F#  .   .   .   |
 |B   .   .   .   |F#/A# .   .   .   |E/G#  .   .   .   |F#  .   .   .   |
-|B   .   .   .   |F#/A# . B .   .   |F#/A# . B .   .   |F#  . E/G#.   .   |
+|B   .   .   .   |F#/A# . B .   .   |F#/A# . B .   .   |B   . E/G#. .   |
 |F#s4.   .   .   |F#    .   .   .   |D     .   .   .   |D/C .   .   .   |
 |Em  .   .   .   |F#    .   .   .   |F#    .   .   .   |
 
