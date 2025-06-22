@@ -16,4 +16,5 @@ Verse - Verse - Chorus
 |F7  .   C F C7  |C7  .   C F/C C7|C7  .   |
 
 [Final]
-|F   .   .   .   |Eb  .   .   .   |Bb  .   .   .   |F  .   .   .   |
+(|F   .   .   .   )
+|F   .   .   .   |Eb  .   .   .   |Bb  .   .   .   |F  .   .   .   | ad lib

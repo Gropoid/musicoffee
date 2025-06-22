@@ -20,9 +20,9 @@ piou piou - Verse - Chorus - Bridge -
 |Bm  .   .   .   |D   .   .   .   |.   .   .   .    |G   .   .    .   |
 
 [Bridge]
-|Em  .   .   .   D   .   A   .   .   .
-|Em  .   .   .   D   .   A   .
-|Em  .   .   .   D   .   G   .   .   .
-|Bm  .   A   .   D   .   G   .   .   .
-|A   .   .   .   .   .   .   .   .   .
+|Em  .   .   .   |D   .   A   .   |.   .   |
+|Em  .   .   .   |D   .   A   .   |
+|Em  .   .   .   |D   .   G   .   |.   .   |
+|Bm  .   A   .   |D   .   G   .   |.   .   |
+|A   .   .   .   |.   .   .   .   |.   .   |
 
