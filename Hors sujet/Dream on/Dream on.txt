@@ -1,10 +1,11 @@
 Dream on -  Aerosmith
-78 BPM                                   Key: Fm
+78 BPM (x2)                                  Key: Fm
 
 Intro - Verse - Pre-Chorus - Chorus1 - Intermède 1 -
   Verse - Chorus 2 long - Intermède 2 - Chorus 3 long - Bridge -
     Chorus 4 long - Chorus 5
 
+partout dans le morceau : ~ = alternance au C/C#
 
 [Intro]
 |Fm  .   .   .   |Cm/F .   .   .   |Fm6  .   .   .   |Bbm6/F.   .   .   |
@@ -18,7 +19,7 @@ Intro - Verse - Pre-Chorus - Chorus1 - Intermède 1 -
 
 [Pre-Chorus]
 |Dm7b5.   .   .  |Csus4.   C   .   |Dm7b5.   .   .   |Bbm6/Db.  .   .   |
-|C    .   .   .  |Fm/C .   .   .   |D7/C .   .   .   |C7.   .   .   |
+|~C   .   .   .  |~Fm/C.   .   .   |~D7/C .   .   .   |~C7.   .   .   |
 
 [Chorus 1 et 4]
 |Fm  .   .   .   |Eb  .   .   .   |Db   .   .   .   |Eb  .   .   .   |
@@ -44,6 +45,6 @@ Intro - Verse - Pre-Chorus - Chorus1 - Intermède 1 -
 
 [Intermède 2]
 |Fm  .   .   .   |C7/F .   .   .   |Fm7  .   .   .   |Bb  .   .   .   |
-|Cm/Eb.   .   .   |C/E .   .   .   |Fm   .   .   .   |Fm  .   .   .   |
+|~Cm/Eb.  .   .   |~C/E .   .   .   |Fm   .   .   .   |Fm  .   .   .   |
 |Fm  .   .   .   |C7/F .   .   .   |Fm7  .   .   .   |Bb  .   .   .   |
-|Cm/Eb.   .   .   |C/E .   .   .   |Fm   .   .   .   |
+|~Cm/Eb.  .   .   |~C/E .   .   .   |Fm   .   .   .   |
