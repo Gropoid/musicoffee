@@ -1,0 +1,49 @@
+Dream on -  Aerosmith
+78 BPM                                   Key: Fm
+
+Intro - Verse - Pre-Chorus - Chorus1 - Intermède 1 -
+  Verse - Chorus 2 long - Intermède 2 - Chorus 3 long - Bridge -
+    Chorus 4 long - Chorus 5
+
+
+[Intro]
+|Fm  .   .   .   |Cm/F .   .   .   |Fm6  .   .   .   |Bbm6/F.   .   .   |
+|Fm  .   .   .   |C7/F .   .   .   |Fm   .   .   .   |Fm    .   .   .   |
+
+[Verse]
+|Fm  .   .   .   |Cm/F .   .   .   |Fm6  .   .   .   |Bbm6/F.   .   .   |
+|Fm  .   .   .   |Cm/F .   .   .   |Fm6  .   .   .   |Bbm6/F.   .   .   |
+|Fm  .   .   .   |Cm/F .   .   .   |Fm6  .   .   .   |Bbm6/F.   .   .   |
+|Fm  .   .   .   |Cm/F .   .   .   |Fm6  .   .   .   |Bbm6/F.   .   .   |
+
+[Pre-Chorus]
+|Dm7b5.   .   .  |Csus4.   C   .   |Dm7b5.   .   .   |Bbm6/Db.  .   .   |
+|C    .   .   .  |Fm/C .   .   .   |D7/C .   .   .   |C7.   .   .   |
+
+[Chorus 1 et 4]
+|Fm  .   .   .   |Eb  .   .   .   |Db   .   .   .   |Eb  .   .   .   |
+|Fm  .   .   .   |Eb  .   .   .   |Db   .   .   .   |Eb  .   .   .   |
+
+[Chorus 2 3 et 5]
+|Fm  .   .   .   |Eb  .   .   .   |Db   .   .   .   |Eb  .   .   .   |
+|Fm  .   .   .   |Eb  .   .   .   |Ddim .   .   .   |Db  .   .   .   |
+|C   .   .   .   |C   .   .   .   |C    .   .   .   |C   .   .   .   |
+
+[Bridge]
+|Bb  .   .   .   |C   .   .   .   |Db  .   .   .   |Eb  .   .   .   |
+|Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |
+|Bb  .   .   .   |C   .   .   .   |Db  .   .   .   |Eb  .   .   .   |
+|Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |
+|Bb  .   .   .   |C   .   .   .   |Db  .   .   .   |Eb  .   .   .   |
+|Fm  .   .   .   |G   .   .   .   |Ab  .   .   .   |Bb  .   .   .   |
+|C   .   .   .   |C   .   .   .   |C   .   .   .   |C   .   .   .   |
+
+[Intermède 1]
+|Fm  .   .   .   |Cm/F .   .   .   |Fm6  .   .   .   |Bbm6/F.   .   .   |
+|Fm  .   .   .   |C7/F .   .   .   |Fm   .   .   .   |Fm    .   .   .   |
+
+[Intermède 2]
+|Fm  .   .   .   |C7/F .   .   .   |Fm7  .   .   .   |Bb  .   .   .   |
+|Cm/Eb.   .   .   |C/E .   .   .   |Fm   .   .   .   |Fm  .   .   .   |
+|Fm  .   .   .   |C7/F .   .   .   |Fm7  .   .   .   |Bb  .   .   .   |
+|Cm/Eb.   .   .   |C/E .   .   .   |Fm   .   .   .   |
