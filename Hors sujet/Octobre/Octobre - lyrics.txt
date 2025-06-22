@@ -1,0 +1,25 @@
+Octobre - Francis Cabrel
+112 BPM                                   Key: B
+
+Structure:
+Intro - Couplet - Couplet - Refrain
+  - Couplet - Refrain
+  - Couplet - Couplet
+
+
+[Intro]
+|E  .   .   Es4  |E  .   .   .   |
+
+[Couplet]
+|E   .   .   .   |A   .   .   .   |E   .   .   .   |A   .   .   .   |
+|C#m .   .   .   |F#  .   .   .   |A   .   .   .   |E   .   .   Es4 |
+|E   .   .   .   |
+
+1er couplet: on s'arrete au A (deux mesures)
+dernier couplet: on plaque le dernier E
+
+[Refrain]
+|A   .   .   .   |B   .   .   .   |C#m .   .   .   |A   .   .   .   |
+|F#m .   .   .   |B   .   .   .   |A   .   .   .   |E   .   .   .   |
+|A   .   .   .   |B   .   .   .   |C#m .   .   .   |A   .   .   .   |
+|F#m .   .   .   |F#m .   .   .   |
