@@ -1,9 +1,9 @@
 Octobre - Francis Cabrel
 98 BPM                                   Key: E
 
-Intro - Couplet - Couplet - Refrain
-  - Couplet - Refrain
-  - Couplet - Couplet
+Intro - Couplet - Couplet
+ - Refrain - Couplet - (Couplet instru)
+  - Refrain - Couplet - Couplet
 
 
 [Intro]
@@ -19,6 +19,6 @@ dernier couplet: on plaque le dernier E
 
 [Refrain]
 |A   .   .   .   |B   .   .   .   |C#m .   .   .   |A   .   .   .   |
-|F#m .   .   .   |B   .   .   .   |A   .   .   .   |E   .   .   .   |
-|A   .   .   .   |B   .   .   .   |C#m .   .   .   |A   .   .   .   |
-|F#m .   .   .   |F#m .   .   .   |
+|A   .   .   .   |F#m .   .   .   |B   .   .   .   |A   .   .   .   |
+|E   .   .   .   |A   .   .   .   |B   .   .   .   |C#m .   .   .   |
+|A   .   .   .   |A   .   .   .   |F#m .   .   .   |F#m .   .   .   |
