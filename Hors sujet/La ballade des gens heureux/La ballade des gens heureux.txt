@@ -1,0 +1,20 @@
+La ballade des gens heureux - Gérard Lenorman
+120 BPM                                   Key: F
+
+Intro
+- Couplet - Couplet - Couplet - Couplet
+  - Couplet - Couplet - Couplet - Couplet
+
+
+[Intro]
+|F   .   .   .   |F   .   .   .   |
+
+[Couplet]
+|F   .   .   .   |F   .   .   .   |F   .   Gm7.   |C   .   .   .   |
+|Gm7 .   C   .   |F   .   Dm7 .   |Gm7 .   C  .   |F   .   .   .   |
+|Gm7 .   C   .   |F   .   Dm7 .   |Gm7 .   C  .   |F   .   .   .   |
+
+
+I       I       I   ii   V .  .  .
+ii  V   I   vi  ii  V    I
+ii  V   I   vi  ii  V    I
