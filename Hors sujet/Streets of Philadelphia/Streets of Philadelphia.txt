@@ -1,0 +1,20 @@
+Street of Philadelphia - Bruce Springsteen
+106 BPM        Key: G
+
+Intro - Verse - Verse - Verse - Chorus - Verse - Chorus - Bridge - Finale
+
+
+[Intro]
+|G   .   .   .   |G   .   .   .   |
+
+[Verse]
+|F   .   .   .   |F   .   .   .   |Am  .   .   .   |Am  .   .   .   |
+|F   .   .   .   |F   .   .   .   |Am  .   .   .   |Am  .   .   .   |
+
+[Chorus]
+|Bbs2.   .   .   |A   .   .   .   |Cs4 .   .   .   |C  .   .   .   |
+|Bbs2.   .   .   |A   .   .   .   |Cs4 .   .   .   |C  .   .   .   |
+
+[Bridge]
+|Bb  .   .   .   |D   .   .   .   |Bb  .   .   .   |F  .   .   .   |
+|Am  .   .   .   |Bb  .   .   .   |Cs4 .   .   .   |C  .   .   .   |
