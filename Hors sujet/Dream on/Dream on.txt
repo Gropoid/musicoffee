@@ -30,15 +30,6 @@ partout dans le morceau : ~ = alternance au C/C#
 |Fm  .   .   .   |Eb  .   .   .   |Ddim .   .   .   |Db  .   .   .   |
 |C   .   .   .   |C   .   .   .   |C    .   .   .   |C   .   .   .   |
 
-[Bridge]
-|Bb  .   .   .   |C   .   .   .   |Db  .   .   .   |Eb  .   .   .   |
-|Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |
-|Bb  .   .   .   |C   .   .   .   |Db  .   .   .   |Eb  .   .   .   |
-|Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |
-|Bb  .   .   .   |C   .   .   .   |Db  .   .   .   |Eb  .   .   .   |
-|Fm  .   .   .   |G   .   .   .   |Ab  .   .   .   |Bb  .   .   .   |
-|C   .   .   .   |C   .   .   .   |C   .   .   .   |C   .   .   .   |
-
 [Intermède 1]
 |Fm  .   .   .   |Cm/F .   .   .   |Fm6  .   .   .   |Bbm6/F.   .   .   |
 |Fm  .   .   .   |C7/F .   .   .   |Fm   .   .   .   |Fm    .   .   .   |
@@ -47,4 +38,14 @@ partout dans le morceau : ~ = alternance au C/C#
 |Fm  .   .   .   |C7/F .   .   .   |Fm7  .   .   .   |Bb  .   .   .   |
 |~Cm/Eb.  .   .   |~C/E .   .   .   |Fm   .   .   .   |Fm  .   .   .   |
 |Fm  .   .   .   |C7/F .   .   .   |Fm7  .   .   .   |Bb  .   .   .   |
-|~Cm/Eb.  .   .   |~C/E .   .   .   |Fm   .   .   .   |
+|~Cm/Eb.  .   .   |~C/E .   .   .   |
+
+[Bridge]
+|Bb  .   .   .   |C   .   .   .   |Db  .   .   .   |Eb  .   .   .   |
+|Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |
+|Bb  .   .   .   |C   .   .   .   |Db  .   .   .   |Eb  .   .   .   |
+|Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |Fm  .   .   .   |
+
+|Bb  .   .   .   |C   .   .   .   |Db  .   .   .   |Eb  .   .   .   |
+|Fm  .   .   .   |G   .   .   .   |Ab  .   .   .   |Bb  .   .   .   |
+|C   .   .   .   |C   .   .   .   |C   .   .   .   |C   .   .   .   |
