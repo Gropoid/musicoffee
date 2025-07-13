@@ -1,0 +1,34 @@
+Le pouvoir des fleurs - Laurent Voulzy
+124 BPM                Key: Bb
+
+
+Intro - Couplet - Pré-refrain - Refrain
+  - Couplet - Pré-refrain - Refrain
+  - Pont -
+  - Couplet - Pré-refrain - Refrain
+  - Refrain - Final
+
+
+[Intro]
+|Bbs4.   .   .   |Bb  .   .   .   |Fs4 .   .   .   |.   .   .   .   |
+|Bbs4.   .   .   |Bb  .   .   .   |Fs4 .   .   .   |.   .   .   .   |
+
+[Couplet]
+|Bbs4.   .   .   |Bb  .   .   .   |Fs4 .   .   .   |F   .   .   .   |
+|Bbs4.   .   .   |Bb  .   .   .   |Fs4 .   .   .   |F   .   .   .   |
+
+[Pré-refrain]
+|Gm  .   Eb  .   |Fs4 .   F   .   |Gm  .   Eb  .   |Fs4 .   F   .   |
+|Bb  .   .   .   |Eb  .   .   .   |Fs4 .   .   .   |F   .   .   .   |
+
+[Refrain]
+|Bb  .   .   .   |Eb  .   .   .   |Fs4 .   F   .   |Gm7 .   .   .   |
+|Eb  .   .   .   |Fs4 .   F   .   |Bb  .   .   .   |.   .   .   .   |
+
+[Pont]
+|Gm  .   .   .   |Bb  .   F   .   |Gm  .   .   .   |Bb  .   F   .   |
+|Gm  .   .   .   |Bb  .   F   .   |Eb  .   .   .   |Fs4 .   F   .   |
+|Eb  .   .   .   |Fs4 .   F   .   |
+
+[Final]
+|Bb  . Eb.   .   |.   F   Bb  .   |
