@@ -1,0 +1,31 @@
+Lemon tree - Fool's garden
+143 BPM                                   Key: Cm
+
+Structure:
+Interlude - Verse - Verse - Chorus
+ - Interlude - Verse  - Bridge - Interlude - Chorus - Chorus final
+
+
+[Interlude]
+|Fm  .   .   .   |Cm  .   .   .   |Fm   .   .   .   |Cm   .   .   .   |
+|Bbm .   .   .   |Cm  .   .   .   |Fm   .   Cm  .   |Fm  NC   .   .   |
+
+[Verse]
+|Fm  .   .   .   |Cm  .   .   .   |Fm   .   .   .   |Cm   .   .   .   |
+|Fm  .   .   .   |Cm  .   .   .   |Fm   .   .   .   |Cm   .   .   .   |
+|Bbm .   .   .   |Cm  .   .   .   |Fm   .   Cm  .   |Fm  NC   .   .   |
+
+[Chorus]
+|Ab  .   .   .   |Eb  .   .   .   |Fm   .   .   .   |Cm  .   .   .   |
+|Db  .   .   .   |Eb  .   .   .   |Ab   .   .   .   |Eb7 .   .   .   |
+|Ab  .   .   .   |Eb  .   .   .   |Fm   .   .   .   |Cm  .   .   .   |
+|Db  .   .   .   |Bb/D.   .   .   |Eb7  .   .   .   |Eb7 .   .   .   |
+
+[Bridge]
+|C   .   .   .   |.   .   .   .   |Fm  .   .   .   |.   .   .   .   |
+|Eb  .   .   .   |.   .   .   .   |Ab  .   .   .   |C7  .   .   .   |
+
+[Chorus final]
+|Ab  .   .   .   |Eb  .   .   .   |Fm  .   .   .   |Cm  .   .   .   |
+|Db  .   .   .   |Eb  .   .   .   |Db  .   .   .   |Eb  .   .   .   |
+|Db  .   .   .   |Eb  .   .   .   |Ab  .   .   .   |.   .   .   .   |
