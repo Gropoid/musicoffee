@@ -1,0 +1,24 @@
+Place des grands hommes - Patrick Bruel
+110 BPM           Key: A
+
+Structure:
+Intro - Refrain - Couplet - Refrain - Couplet - Refrain - Couplet
+  - Refrain - Refrain - Refrain - Refrain - Refrain - Refrain
+
+
+[Intro]
+|A2   .   .   .   |Bm74.   .   Bm7   |
+|A2   .   .   .   |Bm74.   .   Bm7   |
+
+[Refrain]
+|A   .   .   .   |Bm7 .   .   .   |A/C#.   .   .   |D   .   .   .   |
+|F#m .   .   .   |C#m7.   .   .   |D   .   .   .   |E74 .   E7  .   |
+
+[Couplet]
+|A   .   .   .   |Bm7 .   .   .   |A/C#.   .   .   |D   .   .   .   |
+|F#m .   .   .   |C#m7.   .   .   |D   .   .   .   |E74 .   E7  .   |
+|D   .   .   .   |E   .   .   .   |A   .   .   .   |D   .   .   .   |
+|Bm7 .   .   .   |A/C#.   .   .   |E74 .   .   .   |E7  .   .   .   |
+|D   .   .   .   |E   .   .   .   |A   .   .   .   |D   .   .   .   |
+|Bm7 .   .   .   |A/C#.   .   .   |E74 .   .   .   |E7  .   .   .   |
+
