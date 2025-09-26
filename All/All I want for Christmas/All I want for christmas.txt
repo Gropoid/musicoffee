@@ -6,7 +6,7 @@ Intro - Verse A - Inter 1
   - Bridge -  Verse A - final
 
 [Introduction]
-|G   .    Em   .   |C   .    D   .   |  ?
+|G   .   .   .   |Em  .   .   .   |C   .   .   .   |D   .   .   .   |
 
 [Verse A]
 |G   .   .   .   |.   .   .   .   |(G/B).  .   .   |.   .   .   .   |
