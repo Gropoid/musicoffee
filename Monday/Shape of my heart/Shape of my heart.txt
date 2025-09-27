@@ -1,0 +1,23 @@
+Shape of my heart - Sting
+88 BPM                Key: F#m
+
+
+Intro - Verse - Verse - Chorus - Verse - Chorus
+ - Bridge - Verse - Verse - Chorus - Finale
+
+[Verse] = [Chorus]
+|F#m  .    C#m/E.   |Bm   .    C#s4 C#   |D/F# .    C#m/E.    |Bm   .    C#s4 C#   |
+|D    .    .    .   |A    .    C#   .    |D    .    G#m74 .   |F#m  .    .    .    |
+
+
+[Bridge]
+|D    .    G#m74.    |.    .    .    .    |.    .    |
+|C#m  .    G#m/B.    |F#m  .    G#s4 G#   |A/C# .    G#m/B.    |F#m  .    G#s4 G#   |
+|A    .    .    .    |E    .    G#   .    |A    .    D#m74.    |C#m  .    C#m/B.    |
+|A    .    G#   .    |A7M  .    .    .    |A7M  .    .    .    |
+
+[Finale]
+|D    .    G#m74.    |F#m  .    .    .    |D    .    G#m74.    |.    .    .    .    |
+|.    .    F#m  .    |C#m/E.    Bm   .    |C#s4 C#   D/F# .    |C#m/E.    Bm   .    |
+|C#s4 C#   F#m  .    |
+

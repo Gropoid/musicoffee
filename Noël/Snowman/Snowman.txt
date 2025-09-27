@@ -1,0 +1,27 @@
+Snowman - Sia
+68 BPM                                   Key: Db
+
+Structure : Intro - Verse - PreChorus - Chorus
+                   - Verse - PreChorus - Chorus
+
+
+[Intro]
+|Db     .      .      .      |.      .      .       .      |
+
+[Verse]
+|Ebm    .      .      .      |Ab     .      Ab7     .      |
+|Db     .      .      .      |Bbm    .      .       .      |
+|Ebm    .      .      .      |Ab     .      Ab7     .      |
+|Db     .      .      .      |Bbm    .      .       .      |
+
+[PreChorus]
+|F      .      Bbm    .      |Ab     .      Db     .      |
+|F      .      Bbm    .      |Gb     .      Ab     .      |
+
+[Chorus]
+|Db     .      F      .      |Bbm    .      Gb     .      |
+|Db     .      F      .      |Bbm    .      Gb     .      |
+|Db     .      F      .      |Bbm    .      Gb     .      |
+|Db     .      F      .      |Bbm    .      Gb     .      |
+|Db     .      .      .      |.      .      .      .      |
+

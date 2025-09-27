@@ -1,0 +1,21 @@
+Last Christmas - Wham!
+104 BPM                                   Key: D
+
+Structure :
+Intro - Chorus - Chorus - Verse - Verse
+    - Chorus - Chorus - Verse - Verse
+  - Chorus - Chorus
+
+[Intro]
+|D7M9  .     D6    .     |D7M9  .       D6  D7M9  D7    |
+|B9s4  .     Bm7   .     |B9s4  .       Bm7 B9s4  Bm7   |
+|E9s4  .     Em7   .     |E9s4  .       Em7 E9s4  Em7   |
+|GM7/A .     A79   .     |GM7/A .       A79 GM7/A A79   |
+
+
+[Verse] = [Chorus]
+|D7M9  .     D6    .     |D7M9  .       D6        .     |
+|B9s4  .     Bm7   .     |B9s4  .       Bm7       .     |
+|E9s4  .     Em7   .     |E9s4  .       Em7       .     |
+|G7M/A .     A79   .     |G7M/A .       A79       .     |
+
