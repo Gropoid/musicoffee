@@ -1,9 +1,12 @@
 I've seen it - Olivia Dean
 90 BPM                           Key: G
 
-Intro - Verse - Verse 
- - Hook - Verse - Chorus 
-  - Verse - Verse - Hook - Verse
+Intro 
+- Verse - Verse 
+ - Hook - Verse 
+ - Chorus 
+ - Verse - Verse 
+ - Hook - Verse
 
 [Intro = Verse]
 |G  .   D   .   |Em7 .   Bm7 .   |C   .   Cm  .    |G   .   .    .   |
