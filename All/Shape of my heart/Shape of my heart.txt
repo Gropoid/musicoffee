@@ -14,7 +14,7 @@ Intro - Verse - Verse - Chorus - Verse - Chorus
 |D    .    G#m74.    |.    .    .    .    |.    .    |
 |C#m  .    G#m/B.    |F#m  .    G#s4 G#   |A/C# .    G#m/B.    |F#m  .    G#s4 G#   |
 |A    .    .    .    |E    .    G#   .    |A    .    D#m74.    |C#m  .    C#m/B.    |
-|A    .    G#   .    |A7M  .    .    .    |A7M  .    .    .    |
+|A    .    G#   .    |A7M  .    .    .    |
 
 [Finale]
 |D    .    G#m74.    |F#m  .    .    .    |D    .    G#m74.    |.    .    .    .    |
