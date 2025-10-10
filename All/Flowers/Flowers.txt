@@ -1,9 +1,9 @@
 Flowers - Miley Cyrus
-110 BPM           Key: Am
+120 BPM           Key: Am
 
 Structure:
-Intro - Verse - Pre-chorus - Chorus - Instru
-   - Verse - Pre-chorus - Chorus - Instru x2
+Intro - Verse - Pre-chorus - Chorus - Post-Chorus
+   - Verse - Pre-chorus - Chorus - Post-Chorus x2
     - Pre-chorus - Chorus - Finale
 
 
