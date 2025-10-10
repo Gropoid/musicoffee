@@ -8,7 +8,7 @@ Intro - Verse - Verse - Chorus - Verse - Chorus
 [E9  .   E   .   |E9  .   E   .   |
 
 [Verse]
-[E9  .   E   .   |E9  .   E   .   |G#m2.   G#m .   |F#m2.   F#m .   |
+[E9  .   E   .   |G#m2.   G#m .   |F#m2.   F#m .   |G#s4.   G#  .   |
 [C#m .   C#m/B.  |F#/A#.  F#  .   |E2  .   E   .   |A/B .B7 A/B .B7 |
 
 [Chorus]
