@@ -8,7 +8,7 @@ Intro - Verse - Pre-chorus - Chorus - Post-Chorus
 
 
 [Intro]
-|Am   .   .   .   |Am   .   .   .   |
+|CM7  .   .   .   |.    .   .   .   |
 
 
 [Verse]
