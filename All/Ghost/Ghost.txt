@@ -1,16 +1,14 @@
 Ghost - Skip the use
 95 BPM                                   Key: F#m
 
-
+Intro - Verse - Verse - Chorus
+  - Verse - Chorus - Bridge - Chorus - Chorus
 
 
 [Intro]
 |NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |
 
-
 [Verse]
-|Bm  .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
-|Bm  .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
 |Bm  .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
 |Bm  .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
 
@@ -19,6 +17,8 @@ Ghost - Skip the use
 |Bm  .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
 |Bm  .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
 
-
 [Bridge]
 |Bm  .   C#  .   |D   .   E   .   |Bm   .   C#  .   |D   .   E   .   |
+|Bm  .   C#  .   |D   .   E   .   |Bm   .   C#  .   |D   .   E   .   |
+|Bm  .   C#  .   |D   .   E   .   |Bm   .   C#  .   |D   .   E   .   |
+|Bm  .   C#  .   |D   .   E   .   |

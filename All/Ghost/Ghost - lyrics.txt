@@ -1,8 +1,10 @@
+[Intro]
 Time is running out
 A ghost keeping me alive
 I get what it means
 You have to survive
 
+[Verse]
 Eight o'clock in the morning
 Too hard to give, too hard to live
 I can't stop dreaming
@@ -12,6 +14,7 @@ You stay hidden but I see you smile
 I wanna stay inside your arms
 I want to feel fine (you have to survive)
 
+[Verse]
 Twenty minutes and I'm ready
 It's not raining today
 I'm late and I must hurry
@@ -20,6 +23,7 @@ I don't wanna wet us, I'm sorry
 It's not raining today
 Kill the light, I can see
 
+[Chorus]
 Time is running out
 A ghost keeping me alive
 I get what it means
@@ -30,6 +34,7 @@ A ghost keeping me alive
 I get what it means
 You have to survive
 
+[Verse]
 You know I'm on the road
 We are playing tonight
 Ever since this morning
@@ -38,6 +43,7 @@ What's again tonight?
 Will you talk to me?
 You know I need you to make it real
 
+[Chorus]
 Time is running out
 A ghost keeping me alive
 I get what it means
@@ -47,6 +53,8 @@ Time is running out
 A ghost keeping me alive
 I get what it means
 You have to survive
+
+[Bridge]
 (You have to survive)
 (You have to survive)
 
