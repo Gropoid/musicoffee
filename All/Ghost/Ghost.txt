@@ -9,13 +9,12 @@ Intro - Verse - Verse - Chorus
 |NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |
 
 [Verse]
-|Bm  .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
-|Bm  .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
-
+|B   .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
+|B   .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
 
 [Chorus]
-|Bm  .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
-|Bm  .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
+|B   .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
+|B   .   .   .   |D   .   .   .   |A   .   .   .   |Bm   .   F#  .   |
 
 [Bridge]
 |Bm  .   C#  .   |D   .   E   .   |Bm   .   C#  .   |D   .   E   .   |
