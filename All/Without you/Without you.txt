@@ -12,5 +12,5 @@ Intro - Verse - Verse - Chorus - Verse - Chorus
 [C#m .   C#m/B.  |F#/A#.  F#  .   |E2  .   E   .   |A/B .B7 A/B .B7 |
 
 [Chorus]
-|E   .   .   .   |C#m .   .   .   |F#m .   .   .   |F#/B.   B7  .   |
-|E   .   .   .   |C#m .   .   .   |F#m .   .   .   |F#/B.   B7  .   |
+|E   .   .   .   |C#m .   .   .   |F#m .   .   .   |F#m/B.  B7  .   |
+|E   .   .   .   |C#m .   .   .   |F#m .   .   .   |F#m/B.  B7  .   |
