@@ -1,0 +1,36 @@
+All i want for Christmas - Mariah Carey
+148 BPM                Key: G
+
+Intro - Verse A - Inter 1
+ - Verse B - Verse B -
+  - Bridge -  Verse A - final
+
+[Introduction]
+|G   .   .   .   |Em  .   .   .   |C   .   .   .   |D   .   .   .   |
+
+[Verse A]
+|G   .   .   .   |.   .   .   .   |(G/B).  .   .   |.   .   .   .   |
+|C   .   .   .   |.   .   .   .   |Cm/Eb.  .   .   |.   .   .   .   |
+|G   .   .   .   |.   .   B+  .   |Em  .   .   .   |.   .   Cm/Eb.  |
+|G/D .   .   .   |E7  .   .   .   |Am7 .   .   .   |Am7b5/D..   .   |
+
+[Interlude 1]
+|G   .   .   .   |Em  .   .   .   |C   .   .   .   |D   .   .   .   |
+
+[Verse B]
+|G   .   .   .   |.   .   .   .   |.   .   .   .   |.   .   .   .   |
+|C   .   .   .   |.   .   .   .   |Cm/Eb.  .   .   |.   .   .   .   |
+|G   .   .   .   |.   .   .   .   |.   .   .   .   |.   .   .   .   |
+|C   .   .   .   |.   .   .   .   |Cm/Eb.  .   .   |.   .   .   .   |
+|G   .   .   .   |.   .   B+  .   |Em  .   .   .   |.   .   Cm/Eb.  |
+|G/D .   .   .   |E7  .   .   .   |Am7 .   .   .   |Am7b5/D..   .   |
+|G   .   .   .   |Em  .   .   .   |Am9 .   .   .   |D   .   .   .   |
+
+[Bridge]
+|B7  .   .   .   |.   .   .   .   |Em  .   .   .   |.   .   .   .   |
+|B7  .   .   .   |.   .   .   .   |Em  .   .   .   |.   .   .   .   |
+|Cm/Eb.  .   .   |.   .   .   .   |G/D .   .   .   |E7  .   .   .   |
+|Am9 .   .   .   |.   .   .   .   |D7  .   .   .   |.   .   .   .   |
+
+[Final]
+|G   .   .   .   |Em  .   .   .   |Am7 .   .   .   |D   .   .   .   | (x4)
