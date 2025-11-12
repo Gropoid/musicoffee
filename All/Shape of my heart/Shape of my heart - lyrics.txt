@@ -30,7 +30,7 @@ But that's not the shape of my heart
 
 That's not the shape
 The shape of my heart
-
+[Bridge]
 [Verse]
 If I told her that I loved you
 You'd maybe think there's something wrong
@@ -41,7 +41,7 @@ The mask I wear is one
 But those who speak know nothing
 And find out to their cost
 Like those who curse their luck in too many places
-And those who fear are lost
+       And those who fear are lost
 
 [Chorus]
 I know that the spades are the swords of a soldier
