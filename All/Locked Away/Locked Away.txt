@@ -1,0 +1,25 @@
+Locked Away - R. City feat. Adam Levine
+94 BPM                                   Key: Db
+
+Structure :
+ Chorus
+   - Verse - Pre-Chorus - Chorus
+   - Verse - Pre-Chorus - Chorus
+   - Post-Chorus - Chorus - Chorus
+   - Outro
+
+[Chorus] = [Pre-Chorus]
+|Db  .   .   .   |Bbm .   .   .   |Gb  .   .   .   |Db  .   Ab  .   |
+|Db  .   .   .   |Bbm .   .   .   |Gb  .   .   .   |Db  .   Ab  .   |
+
+[Verse]
+|NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |
+|NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |
+
+[Verse alt]
+|Db  .   .   .   |Gb  .   .   .   |Bbm .   .   .   |Ab  .   .   .   |
+|Db  .   .   .   |Gb  .   .   .   |Bbm .   .   .   |Ab  .   .   .   |
+
+[Post-Chorus]
+|Db  .   .   .   |Bbm .   .   .   |Gb  .   .   .   |Ab  .   .   .   |
+|Db  .   .   .   |Bbm .   .   .   |Gb  .   .   .   |Ab  .   .   .   |
