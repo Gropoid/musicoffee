@@ -1,0 +1,30 @@
+Avant toi - Vitaa & Slimane
+130 BPM      Key: Gm
+
+Intro - Couplet - Pré-refrain - Refrain
+ intermède - Couplet - Pré-refrain - Refrain
+  intermède - 1/2 refrain - Refrain - Final
+
+[Intro]
+|Gm  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |Dm/A.   .   .   |
+|Gm  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |F/A .   .   .   |
+
+[Couplet]
+|Gm  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |F   .   .   .   |
+|Gm  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |F   .   .   .   |
+
+[Intermede]
+|Bb  .   .   .   |F   .   .   .   |Gm  .   .   .   |Eb  .   .   .   |
+|Bb  .   .   .   |F   .   .   .   |Gm  .   .   .   |Eb  .   .   .   |
+
+[Pré-refrain]
+|Gm  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |F   .   .   .   |
+|Gm  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |F/A .   .   .   |
+|Cm  .   .   .   |.   .   .   .   |Eb7M.   .   .   |F   .   .   .   |
+
+[Refrain]
+|Bb  .   .   .   |F/A .   .   .   |Gm  .   .   .   |Eb  .   .   .   |
+|Bb  .   .   .   |F   .   .   .   |Gm  .   .   .   |Eb  .   .   .   |
+|Bb  .   .   .   |F   .   .   .   |Gm  .   .   .   |Eb  .   .   .   |
+|Bb  .   .   .   |F   .   .   .   |Gm  .   .   .   |Eb  .   .   .   |
+
