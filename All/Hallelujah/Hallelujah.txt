@@ -1,6 +1,8 @@
 Hallelujah - Leonard Cohen
 64 BPM                           Key: C
 
+(Verse Chorus) x5
+Chorus x3
 
 [Verse]
 |C   .   |A-  .   |C   .   |A-  .   |

@@ -1,5 +1,4 @@
 [Intro]
-
 [Chorus]
 Last Christmas, I gave you my heart
 But the very next day, you gave it away
@@ -7,10 +6,6 @@ This year, to save me from tears
 I'll give it to someone special
 
 [Chorus]`
-Last Christmas, I gave you my heart
-But the very next day, you gave it away (you gave it away)
-This year, to save me from tears
-I'll give it to someone special (special)
 
 [Instrumental]
 
@@ -33,10 +28,6 @@ This year, to save me from tears
 I'll give it to someone special (special)
 
 [Chorus]
-Last Christmas, I gave you my heart
-But the very next day, you gave it away
-This year, to save me from tears
-I'll give it to someone special (special)
 
 [Instrumental]
 
