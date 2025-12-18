@@ -1,0 +1,30 @@
+Shallow - Lady Gaga & Bradley Cooper
+ 98 BPM             Key: Em
+
+ Intro - Verse - Instru?
+  - Verse - Chorus
+  - Bridge - Chorus
+
+
+[Intro]
+|C9/E.   D/F#. G |.   .   . G .   |C9  .   .   .   |G   . D .   .   |
+|C9/E.   D/F#. G |.   .   . G .   |
+
+[Verse]
+|C9/E.   D/F#. G |.   .   . G .   |C   .   .   .   |G   . D .   .   |
+|C9/E.   D/F#. G |.   .   . G .   |C   .   .   .   |G   . D .   .   |
+|C9/E.   D/F#. G |.   .   . G .   |C   .   .   .   |G   . D .   .   |
+|C9/E.   D/F#. G |.   .   . G .   |C   .   .   .   |G   . D .   .   |
+
+[Instru]
+|C9/E.   D/F#. G |.   .   . G .   |C9/E.   D/F#. G |.   .   . G .   |
+
+[Chorus]
+|Am  .   .   Em/G|D/F#.   .   .   |G   .   D   .   |Em  .   .   .   |
+|Am  .   .   Em/G|D/F#.   .   .   |G   .   D   .   |Em  .   .   .   |
+|Am  .   .   Em/G|D/F#.   .   .   |G   .   D   .   |Em  .   .   .   |
+|Am  .   .   Em/G|D/F#.   .   .   |G   .   D   .   |Em  .   .   .   |
+
+[Bridge]
+|Em  .   .   .   |Bm  .   .   .   |D   .   .   .   |A   .   .   .   |
+|Em  .   .   .   |Bm  .   .   .   |D   .   .   .   |A   .   .   .   |
