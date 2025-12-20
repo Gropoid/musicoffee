@@ -1,0 +1,11 @@
+Un dimanche avec toi - Vitaa & Slimane
+68 BPM      Key:
+
+Couplet - Refrain
+ - Couplet - Refrain
+  - Intermède - Refrain
+
+
+[Couplet] = [Refrain]
+|Bm  .   .   .   |A   .   .   .   |G   .   .   .   |D   .   A   .   |
+|Bm  .   .   .   |A   .   .   .   |G   .   .   .   |D   .   A   .   |
