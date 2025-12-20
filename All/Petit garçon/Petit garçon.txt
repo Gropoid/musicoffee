@@ -1,0 +1,12 @@
+Petit garçon - Graeme Allwiright (orig. Roger Miller)
+100 BPM (+/-)       Key:D
+
+(Couplet - Refrain) X3
+
+[Couplet]
+|D   .   .   .   |A7  .   .   .   |G   .   .   .   |A7  .   .   .   |
+|D   .   .   .   |G   .   .   .   |D   .   A7  .   |D   .   .   .   |
+
+[Refrain]
+|A7  .   .   .   |A7  .   .   .   |G   .   D   .   |.   .   .   .   |
+|Bm  .   .   .   |.   .   .   .   |E7  .   .   .   |A   .   .   .   |
