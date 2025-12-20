@@ -5,3 +5,12 @@
 - [Hallelujah](All/Hallelujah/)
 - [Last Christmas](All/Last%20Christmas/)
 - [Snowman](All/Snowman/)
+- [Derniere danse](All/Derniere%20danse/)
+- [Shallow](All/Shallow/)
+- [Un dimanche avec toi](All/Un%20dimanche%20avec%20toi/)
+- [Avant toi](All/Avant%20toi/)
+- [Noël russe](All/Noël%20russe/)
+- 
+- [Une fleur m'a dit](All/Une%20fleur%20m'a%20dit]/)
+- [Petit garçon](All/Petit%20garçon/)
+- 
