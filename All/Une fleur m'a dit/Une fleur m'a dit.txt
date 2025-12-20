@@ -1,0 +1,14 @@
+Une fleur m'a dit - Mannick & Jo
+80 BPM (+/-)       Key: G
+
+(Instru - Couplet - Refrain) X3
+
+[Instru]
+|C   .   G/B .   |A   .   G   .   |C   .   G/B .   |A   .   G   .   |
+
+[Couplet]
+|C   .   Em  .   |D   .   G   .   |C   .   Em  .   |D   G   C   .   |
+
+[Refrain]
+|Am  .   E   .   |F   .   C   .   |Am  .   D   .   |G   .   .   .   |
+|Am  .   E   .   |F   .   C   .   |Am  .   G   .   |F   .   C   .   |
