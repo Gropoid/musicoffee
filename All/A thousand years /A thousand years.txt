@@ -1,0 +1,25 @@
+A thousand years  - Christina Perri
+48 BPM                                   Key: Bb
+
+Intro - Verse - Chorus -
+ - Verse - Chorus -
+ - Chorus - Bridge -
+ - Chorus - Chorus - Final
+
+
+[Intro]
+|Bb  .   .   F/A |Gm7 .   .   Bb/F|Eb  .   .   .   |Bb/F.   F   .   |
+
+[Verse]
+|Eb9 .   .   .   |Bb/D.   .   .   |Gm7 .   F/A Bb  |Eb9 .   .   .   |
+|Bb/D.   .   .   |Gm7 .   F/A Bb  |Cm74.   .   .   |Gm7 .   F   .   |
+
+[Chorus]
+|Bb  .   .   F/A |Gm7 .   .   F   |Eb9 .   .   .   |F7s4.   F   .   |
+(|Eb9 .   .   .   |)
+
+[Bridge]
+|Cm74.   .   .   |Gm7 .   F   .   |Cm74.   .   .   |Gm7 .   F   .   |
+
+[Final]
+|Eb9 .   .   .   |Bb/D.   .   .   |Eb9 .   .   .   |Gm7 .   F   .   |Eb9 ...
