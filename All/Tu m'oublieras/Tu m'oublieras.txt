@@ -1,0 +1,36 @@
+Tu m'oublieras - Larusso
+105 BPM       Ebm
+
+
+Refrain - Couplet - Couplet - Couplet(alt)
+ - Refrain - Couplet - Couplet(alt)
+  - Couplet+1.5 - Couplet+1.5(alt) - Refrain+1.5
+   - Pont - Couplet+1.5
+
+[Refrain]
+|Ebm  .    Ebm5+.    |Ebm6 .    .    .    |
+|Db7M .    .    .    |.    .    Gb7M .    |
+|B7M  .    .    .    |F7   .    Bb7  .    |
+|Ebm  .    Ebm5+.    |Db   .    .    .    |
+|Ebm  .    Ebm5+.    |Bbs4 .    Bb   .    |
+
+[Couplet 1 2 4] (alt. 3 & 5)
+|Ebm  .    Ebm5+.    |Ebm6 .    .    .    |
+|Db7M .    .    .    |.    .    Gb7M .    |
+|B7M  .    (Cm75-).  |F7   .    Bb7  .    |
+
+[Couplet+1.5 1 3] (alt. 2)
+|Gbm  .    Gbm5+.    |Gbm6 .    .    .    |
+|E7M  .    .    .    |.    .    A7M  .    |
+|D7M  .    (Eb75-).  |Ab7  .    Db7  .    |
+
+[Refrain]
+|Gbm  .    Gbm5+.    |Gbm6 .    .    .    |
+|E7M  .    .    .    |.    .    A7M  .    |
+|D7M  .    .    .    |Ab7  .    Db7  .    |
+|Gbm  .    Gbm5+.    |E    .    .    .    |
+|Gbm  .    EGbm5+.   |Dbs4 .    Db   .    |Gbm
+
+[Pont]
+|Gbm  .    .    .    |E9M  .    .    .    |
+|D9M  .    .    .    |B/Db .    Db7  .    |
