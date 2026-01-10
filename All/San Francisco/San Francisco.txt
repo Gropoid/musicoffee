@@ -1,0 +1,22 @@
+San Francisco - Maxime Le Forestier
+120 BPM       Fm
+
+
+Intro - Couplet - Refrain
+ - Couplet - Refrain
+ - Couplet - Refrain
+
+
+[Intro]
+|Fm  .   .   .   |Db  .   .   .   |Fm  .   .   .   |Db  .   .   .   |
+
+[Couplet]
+|Fm  .   .   .   |Ab  .   .   .   |Cm  .   .   .   |Db  .   .   .   |
+|Ab  .   .   .   |Eb  .   .   .   |Db  .   .   .   |
+|Fm  .   .   .   |Ab  .   .   .   |Cm  .   .   .   |Db  .   .   .   |
+|Ab  .   .   .   |Eb  .   .   .   |Bb  .   .   .   |
+
+[Refrain]
+|Fm  .   .   .   |Ab  .   .   .   |Bb  .   .   .   |Db  .   .   .   |
+|Eb  .   .   .   |Cm  .   .   .   |.   .   .   .   |Fm  .   .   .   |
+|Ab  .   .   .   |Bb  .   .   .   |Db  .   .   .   |Fm  .   .   .   |
