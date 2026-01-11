@@ -18,5 +18,6 @@ Intro - Couplet - Refrain
 
 [Refrain]
 |Fm  .   .   .   |Ab  .   .   .   |Bb  .   .   .   |Db  .   .   .   |
-|Eb  .   .   .   |Cm  .   .   .   |.   .   .   .   |Fm  .   .   .   |
-|Ab  .   .   .   |Bb  .   .   .   |Db  .   .   .   |Fm  .   .   .   |
+|Eb  .   .   .   |Cm  .   .   .   |.   .   .   .   |Fm  .   . Ab.   |
+|Bb  .   .   .   |Db  .   .   .   |.   .   .   .   |Fm  .   .   .   |
+|Fm  .   .   .   |
