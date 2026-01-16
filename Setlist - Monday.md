@@ -1,6 +1,6 @@
 # Monday Setlist
 
-- [AI've seen it](All/I've%20seen%20it)
+- [I've seen it](All/I've%20seen%20it)
 - [All I want for Christmas](All/All%20I%20want%20for%20Christmas)
 
 - [Attention](All/Attention)
