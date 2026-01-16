@@ -1,0 +1,20 @@
+Comme des enfants - Coeur de Pirate
+85 BPM       Bb
+
+Intro - Couplet - Refrain
+ - Couplet - Refrain - Refrain
+    - Pont - Refrain - Refrain - Refrain - Refrain
+
+
+[Intro]
+|Bb  .   D7/F#.  |Gm  .   Eb  .   |Bb  .   D7/F#.  |Gm  .   Eb  .   |
+
+[Couplet]
+|Bb  .   D7/F#.  |Gm  .   Eb  .   |Bb  .   D7/F#.  |Gm  .   Eb  .   |
+|Bb  .   D7/F#.  |Gm  .   Eb  .   |Bb  .   D7/F#.  |Gm  .   Eb  .   |
+
+[Refrain]
+|Eb  .   Bb  .   |Eb  .   Bb  .   |Eb  .   Bb  .   |Eb  .   Bb  .   |
+
+[Pont]
+|Cm  .   Gm  .   |Cm  .   Gm  .   |Cm  .   Gm  .   |F   .   .   .   |
