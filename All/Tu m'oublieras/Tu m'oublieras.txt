@@ -24,7 +24,7 @@ Refrain - Couplet - Couplet - Couplet(alt)
 |E7M  .    .    .    |.    .    A7M  .    |
 |D7M  .    (Eb75-).  |Ab7  .    Db7  .    |
 
-[Refrain]
+[Refrain+1.5]
 |Gbm  .    Gbm5+.    |Gbm6 .    .    .    |
 |E7M  .    .    .    |.    .    A7M  .    |
 |D7M  .    .    .    |Ab7  .    Db7  .    |
