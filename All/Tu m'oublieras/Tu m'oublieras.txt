@@ -29,7 +29,7 @@ Refrain - Couplet - Couplet - Couplet(alt)
 |E7M  .    .    .    |.    .    A7M  .    |
 |D7M  .    .    .    |Ab7  .    Db7  .    |
 |Gbm  .    Gbm5+.    |E    .    .    .    |
-|Gbm  .    EGbm5+.   |Dbs4 .    Db   .    |Gbm
+|Gbm  .    Gbm5+.    |Dbs4 .    Db   .    |(Gbm)
 
 [Pont]
 |Gbm  .    .    .    |E9M  .    .    .    |
