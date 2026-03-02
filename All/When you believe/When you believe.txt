@@ -1,0 +1,23 @@
+- Draft -
+When you believe - Stephen Shwartz / Whitney Houston / Mariah Carey
+60 BPM       B -> C
+
+Verse - Chorus
+
+
+
+
+[Verse]
+|Bm  .   A   .   |F#m .   Bm  .   |Bm  .   D   .   |Em7 .   F#m .   |
+|Bm  .   A/C#.   |F#m .   Bm  .   |Bm  .   D   .   |Em7 .   A   .   |
+|.   .   .   .   |
+
+[Chorus]
+|D   .   .   .   |A/C#.   .   .   |Bm  .   F#m .   |GM7 .   A   .   |
+|D   .   .   .   |A/C#.   .   .   |Bm  .   F#m .   |GM7 .   .   .   |
+|Em7 .   A   .   |Bm  .   .   .   |Bm  .   .   .   |
+
+[Verse 2]
+|Bm  .   A   .   |F#m .   Bm  .   |Bm  .   D   .   |Em7 .   F#m .   |
+|B   .   A/C#.   |.   .   Em  .   |G   .   D/F#.   |Em7 .   A   .   |
+|.   .   .   .   |
