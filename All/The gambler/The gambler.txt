@@ -1,0 +1,12 @@
+The gambler - Kenny Rogers
+90 BPM      Eb -> F
+
+
+
+[Verse]=[Chorus]
+|Eb  .   .   .   |Ab  .   Eb   .   |(Ab).   Eb   .   |.   .   Bb7   .   |
+|Eb  .   .   .   |Ab  .   Eb   .   |Ab  .   Eb   .   |Bb7 .   Eb    .   |
+
+[Verse+1]=[Chorus+1]
+|F   .   .   .   |Bb  .   F    .   |(Bb).   F    .   |.   .   C7    .   |
+|F   .   .   .   |Bb  .   F    .   |Bb  .   F    .   |C7  .   F     .   |
