@@ -3,13 +3,16 @@ When you believe - Stephen Shwartz / Whitney Houston / Mariah Carey
 60 BPM       B -> C
 
 Verse - Chorus
+ Verse2 - Chorus+1
+  Bridge
+   Verse3 - Chorus+2
 
 
 
 
 [Verse]
-|Bm  .   A   .   |F#m .   Bm  .   |Bm  .   D   .   |Em7 .   F#m .   |
-|Bm  .   A/C#.   |F#m .   Bm  .   |Bm  .   D   .   |Em7 .   A   .   |
+|Bm  .   A   .   |F#m7.   Bm  .   |Bm  .   G   .   |Em7 .   F#m7.   |
+|B   .   A/C#.   |F#m .   B   .   |Bm  .   D   .   |Em7 .   A   .   |
 |.   .   .   .   |
 
 [Chorus]
@@ -19,5 +22,18 @@ Verse - Chorus
 
 [Verse 2]
 |Bm  .   A   .   |F#m .   Bm  .   |Bm  .   D   .   |Em7 .   F#m .   |
-|B   .   A/C#.   |.   .   Em  .   |G   .   D/F#.   |Em7 .   A   .   |
+|B   .   A/C#.   |.   .   Em  .   |G   .   D/F#.   |Em7 .   A/C#.   |
+|.   .   .   .   |
+
+[Chorus+1]
+|E   .   .   .   |B/D#.   .   .   |C#m .   G#m .   |AM7 .   B   .   |
+|E   .   .   .   |B/D#.   .   .   |C#m .   G#m .   |AM7 .   .   .   |
+|F#m7.   G   .   |C#m .   .   .   |C#m .   .   .   |
+
+[Bridge]
+|E   .   .   .   |C#m7.   .   .   |A   .   .   .   |B   .   B/A .   |
+
+[Verse 3]
+|C#m .   A   .   |F#m .   Bm  .   |Bm  .   D   .   |Em7 .   F#m .   |
+|B   .   A/C#.   |.   .   Em  .   |G   .   D/F#.   |Em7 .   A/C#.   |
 |.   .   .   .   |
