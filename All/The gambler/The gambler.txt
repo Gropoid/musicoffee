@@ -1,5 +1,5 @@
 The gambler - Kenny Rogers
-90 BPM      Eb -> F
+90 BPM      Eb -> E
 
 
 
@@ -8,5 +8,5 @@ The gambler - Kenny Rogers
 |Eb  .   .   .   |Ab  .   Eb   .   |Ab  .   Eb   .   |Bb7 .   Eb    .   |
 
 [Verse+1]=[Chorus+1]
-|F   .   .   .   |Bb  .   F    .   |(Bb).   F    .   |.   .   C7    .   |
-|F   .   .   .   |Bb  .   F    .   |Bb  .   F    .   |C7  .   F     .   |
+|E   .   .   .   |A   .   E    .   |(A) .   E    .   |.   .   B7    .   |
+|E   .   .   .   |A   .   E    .   |(A) .   E    .   |B7  .   E    .   |
