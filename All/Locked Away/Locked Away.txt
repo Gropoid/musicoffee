@@ -13,13 +13,16 @@ Structure :
 |Db  .   .   .   |Bbm .   .   .   |Gb  .   .   .   |Db  .   Ab  .   |
 
 [Verse]
-|NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |
-|NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |NC  .   .   .   |
+|NC  .   .   .   |
+|Db  .   .   .   |Gb  .   .   .   |Bbm .   .   .   |Db  .   Ab  .   |
+|Db  .   .   .   |Gb  .   .   .   |Bbm .   .   .   |Db  .   Ab  .   |
 
 [Verse alt]
-|Db  .   .   .   |Gb  .   .   .   |Bbm .   .   .   |Ab  .   .   .   |
-|Db  .   .   .   |Gb  .   .   .   |Bbm .   .   .   |Ab  .   .   .   |
+|NC  .   .   .   |
+|Bb  .   .   .   |Gb  .   .   .   |Db  .   .   .   |Bb  .   Ab  .   |
+|Bb  .   .   .   |Gb  .   .   .   |Db  .   .   .   |Bb  .   Ab  .   |
 
 [Post-Chorus]
 |Db  .   .   .   |Bbm .   .   .   |Gb  .   .   .   |Ab  .   .   .   |
 |Db  .   .   .   |Bbm .   .   .   |Gb  .   .   .   |Ab  .   .   .   |
+|%   .   .   .   |
