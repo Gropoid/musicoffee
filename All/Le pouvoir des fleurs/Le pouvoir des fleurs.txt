@@ -6,7 +6,7 @@ Intro - Couplet - Pré-refrain - Refrain
   - Couplet - Pré-refrain - Refrain
   - Pont -
   - Couplet - Pré-refrain - Refrain
-  - Refrain - Final
+  - Refrain+1 - Final
 
 
 [Intro]
@@ -23,12 +23,19 @@ Intro - Couplet - Pré-refrain - Refrain
 
 [Refrain]
 |Bb  .   .   .   |Eb  .   .   .   |Fs4 .   F   .   |Gm7 .   .   .   |
-|Eb  .   .   .   |Fs4 .   F   .   |Bb  .   .   .   |.   .   .   .   |
+|Eb  .   .   .   |Fs4 .   F   .   |Bb  .   .   .   (|.   .   .   .   |)
 
 [Pont]
 |Gm  .   .   .   |Bb  .   F   .   |Gm  .   .   .   |Bb  .   F   .   |
 |Gm  .   .   .   |Bb  .   F   .   |Eb  .   .   .   |Fs4 .   F   .   |
 |Eb  .   .   .   |Fs4 .   F   .   |
 
+[Refrain +1]
+|Eb  .   .   .   |F   .   .   .   |Eb  .   .   .   |F   .   .   .   |
+|C   .   .   .   |F   .   .   .   |Gs4 .   G   .   |Am7 .   .   .   |
+|F   .   .   .   |Gs4 .   G   .   |
+|C   .   .   .   |F   .   .   .   |Gs4 .   G   .   |Am7 .   .   .   |
+|F   .   .   .   |Gs4 .   G   .   |
+
 [Final]
-|Bb  . Eb.   .   |.   F   Bb  .   |
+|C  . F .   .   |.   G   C  .   |
