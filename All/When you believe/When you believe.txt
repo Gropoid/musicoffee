@@ -11,7 +11,7 @@ Verse - Chorus
 
 
 [Verse]
-|Bm  .   A   .   |F#m7.   Bm  .   |Bm  .   G   .   |Em7 .   F#m7.   |
+|Bm  .   A   .   |F#m7.   Bm  .   |Bm  .   D   .   |Em7 .   F#m7.   |
 |B   .   A/C#.   |F#m .   B   .   |Bm  .   D   .   |Em7 .   A   .   |
 |.   .   .   .   |
 
