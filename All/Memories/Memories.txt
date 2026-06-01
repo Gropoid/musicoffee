@@ -1,0 +1,9 @@
+Memories - Maroon 5
+94 BPM                                   Key: B
+
+Structure :
+ Chorus - Verse - Chorus - doo-doo - Chorus - Verse - Chorus
+
+
+[Chorus] = [Verse]
+|B   .   F#  .   |G#m .   D#m .   |E   .   B   .   |E  .   F#  .   |
