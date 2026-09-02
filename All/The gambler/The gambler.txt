@@ -1,12 +1,13 @@
 The gambler - Kenny Rogers
 90 BPM      Eb -> E
 
-
+Verse - Verse - Verse - Chorus
+- Verse+1 - Verse+1 - Chorus+1 - Chorus+1 - ...
 
 [Verse]=[Chorus]
-|Eb  .   .   .   |Ab  .   Eb   .   |(Ab).   Eb   .   |.   .   Bb7   .   |
-|Eb  .   .   .   |Ab  .   Eb   .   |Ab  .   Eb   .   |Bb7 .   Eb    .   |
+|Eb  .   .   .   |Ab  .   Eb   .   |Ab  .   Eb   .   |.   .   Bb7  .   |
+|Eb  .   .   .   |Ab  .   Eb   .   |Ab  .   Eb   .   |Bb7 .   Eb   .   |
 
 [Verse+1]=[Chorus+1]
-|E   .   .   .   |A   .   E    .   |(A) .   E    .   |.   .   B7    .   |
+|E   .   .   .   |A   .   E    .   |(A) .   E    .   |.   .   B7   .   |
 |E   .   .   .   |A   .   E    .   |(A) .   E    .   |B7  .   E    .   |
